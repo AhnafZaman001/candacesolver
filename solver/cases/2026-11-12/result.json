@@ -1,0 +1,1315 @@
+{
+ "status": "OPTIMAL",
+ "objective": 2007.0,
+ "date": "2026-11-12",
+ "day": "THU",
+ "summary": {
+  "SHF": 8,
+  "ADJ": 14,
+  "LAB": 20,
+  "SPORT": 19,
+  "! FIX": 0,
+  "ROT": 24
+ },
+ "cells": [
+  {
+   "section": "F1A",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "P.ZAMAN (T)\nP.AMNA KH (S)\nP.MAHPARA (TH)",
+   "after": "BIO LAB (BL)",
+   "struck": [
+    "P.MAHPARA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F1A",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "BIO\nP.MAHPARA",
+   "after": "Sports period",
+   "struck": [
+    "P.MAHPARA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F1B",
+   "period": 1,
+   "period_id": "Y1:1",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "ISLAMIAT\nP.ALIYA",
+   "after": "PHY LAB (PL)",
+   "struck": [
+    "P.ALIYA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F1B",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.ZAMAN (S)\nP.AMNA KH (TH)\nP.MAHPARA (T)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F1B",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "BIO\nP.MAHPARA",
+   "after": "ISLAMIAT P.ALIYA",
+   "struck": [
+    "P.MAHPARA"
+   ],
+   "reason": "moved from period 1"
+  },
+  {
+   "section": "F2",
+   "period": 1,
+   "period_id": "Y1:1",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "BIO\nP.MAHPARA",
+   "after": "ENG P.IMRAN M",
+   "struck": [
+    "P.MAHPARA"
+   ],
+   "reason": "moved from period 4"
+  },
+  {
+   "section": "F2",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.NAVEED AH (TH)\nP.AMNA KH (T)\nP.MAHPARA (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F2",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "ENG\nP.IMRAN M",
+   "after": "CHEM LAB (CL)",
+   "struck": [
+    "P.IMRAN M"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F3",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.NAVEED AH (S)\nP.ADEEL M (T)\nP.AFFAN (TH)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F5",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.ZULFIQAR (S)\nP.ADEEL M (TH)\nP.AFFAN (T)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F5",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "PHY\nP.ZULFIQAR",
+   "after": "Sports period",
+   "struck": [
+    "P.ZULFIQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F6",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.ALI H (T)\nP.HAFSA (TH)\nP.ADNAN (TH)\nP.SABA (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F6",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "PHY\nP.ALI HASSAN",
+   "after": "ENG P.ASHRAF",
+   "struck": [
+    "P.ALI HASSAN"
+   ],
+   "reason": "moved from period 6"
+  },
+  {
+   "section": "F6",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "MATH\nP.SABA",
+   "after": "PHY P.ALI HASSAN",
+   "struck": [],
+   "reason": "moved from period 4"
+  },
+  {
+   "section": "F6",
+   "period": 6,
+   "period_id": "Y1:7",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "ENG\nP.ASHRAF",
+   "after": "MATH P.SABA",
+   "struck": [],
+   "reason": "moved from period 5"
+  },
+  {
+   "section": "F7",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.ALI H (TH)\nP.ADNAN (S)\nP.SABA (T)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F8",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.ALI H (S)\nP.DR.ADEEL (T)\nP.SABA (TH)\nP. A. REHMAN",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F9",
+   "period": 2,
+   "period_id": "Y1:2",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "URDU\nP.UZMA",
+   "after": "Sports period",
+   "struck": [
+    "P.UZMA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F9",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "P.ZULFIQAR (T)\nP.ATIF NAWAZ (S)\nP.HAMZA (TH)",
+   "after": "Sports period",
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F9",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "COMP\nP.WASEEM",
+   "after": "MATH P.HAMZA",
+   "struck": [
+    "P.WASEEM"
+   ],
+   "reason": "moved from period 3"
+  },
+  {
+   "section": "F9",
+   "period": 6,
+   "period_id": "Y1:7",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "PHY\nP.ZULFIQAR",
+   "after": "MATH P.HAMZA",
+   "struck": [
+    "P.ZULFIQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F9",
+   "period": 7,
+   "period_id": "Y1:8",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "ENG\nP.ATIF NAWAZ \nCOMP P. WASEEM (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F10",
+   "period": 1,
+   "period_id": "Y1:1",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "URDU\nP.UZMA",
+   "after": "CHEM LAB (CL)",
+   "struck": [
+    "P.UZMA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F10",
+   "period": 2,
+   "period_id": "Y1:2",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "ISLAMIAT\nP.ALIYA",
+   "after": "STAT P.IRFAN",
+   "struck": [
+    "P.ALIYA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F10",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "P.ZULFIQAR (TH)\nP.HAFSA/P.Waseem(S)\nP.HAMZA (T)",
+   "after": "MATH P.HAMZA",
+   "struck": [
+    "P.ZULFIQAR"
+   ],
+   "reason": "moved from period 5"
+  },
+  {
+   "section": "F10",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "ENG\nP.ATIF NAWAZ(S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F10",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SHF"
+   ],
+   "before": "MATH\nP.HAMZA",
+   "after": "ISLAMIAT P.ALIYA",
+   "struck": [],
+   "reason": "moved from period 2"
+  },
+  {
+   "section": "F10",
+   "period": 6,
+   "period_id": "Y1:7",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "CHEM/COMP\nP. HAFSA /\nP.WASEEM",
+   "after": "group: Sports period",
+   "struck": [
+    "P.WASEEM"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F10",
+   "period": 7,
+   "period_id": "Y1:8",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "PHY / STAT\nP.ZULFIQAR / P.IRFAN",
+   "after": "group: Sports period",
+   "struck": [
+    "P.ZULFIQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F11",
+   "period": 2,
+   "period_id": "Y1:2",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "BIO\nP.UMER HAYAT",
+   "after": "Sports period",
+   "struck": [
+    "P.UMER HAYAT"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F11",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "P.IBTSAM (S)\nP.HAFSA(T)\nP.UMER H (TH)",
+   "after": "CHEM LAB (CL)",
+   "struck": [
+    "P.UMER H"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F11",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "PHY\nP.IBTSAM",
+   "after": "Sports period",
+   "struck": [
+    "P.IBTSAM"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F11",
+   "period": 7,
+   "period_id": "Y1:8",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "URDU\nP.UZMA",
+   "after": "CHEM P.HAFSA IJAZ",
+   "struck": [
+    "P.UZMA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F12",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "P.IBTSAM (TH)\nP.ADEEL M (S)\nP.UMER H (T)",
+   "after": "ENG P.ATIF NAWAZ",
+   "struck": [
+    "P.IBTSAM"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F12",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "BIO\nP.UER HAYAT",
+   "after": "BIO LAB (BL)",
+   "struck": [
+    "P.UER HAYAT"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F12",
+   "period": 6,
+   "period_id": "Y1:7",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "URDU\nP.UZMA",
+   "after": "CHEM LAB (CL)",
+   "struck": [
+    "P.UZMA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F12",
+   "period": 7,
+   "period_id": "Y1:8",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "PHY\nP.IBTSAM",
+   "after": "CHEM P.ADEEL MANSHA",
+   "struck": [
+    "P.IBTSAM"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F13",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.RUQAYA (TH)\nP.QAZA/P.WASEEM(T)\nP.ALI KHAN (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F13",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "CHEM/COMP\nP.QAZA/ P.WASEEM",
+   "after": "COMP LAB (COL)",
+   "struck": [
+    "P.QAZA",
+    "P.WASEEM"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F13",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "ISLAMIAT\nP.RUQAYA (M,T,W,S)\nPHY P.WAQAR (TH)",
+   "after": "PHY LAB (PL)",
+   "struck": [
+    "P.WAQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F13",
+   "period": 7,
+   "period_id": "Y1:8",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "PHY\nP.WAQAR",
+   "after": "Sports period",
+   "struck": [
+    "P.WAQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F14",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.WAQAR (S)\nP.ADNAN (T)\nP.ALI KHAN (TH)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F14",
+   "period": 6,
+   "period_id": "Y1:7",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "PHY / STAT\nP.WAQAR / P.IRFAN",
+   "after": "group: Sports period",
+   "struck": [
+    "P.WAQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F15",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "P.WAQAR (TH)\nP.DR.ADEEL (S)\nP.ALI K (T)",
+   "after": "Sports period",
+   "struck": [
+    "P.WAQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F15",
+   "period": 4,
+   "period_id": "Y1:4",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "PHY\nP.WAQAR",
+   "after": "Sports period",
+   "struck": [
+    "P.WAQAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "F16",
+   "period": 3,
+   "period_id": "Y1:3",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.NAVEED AH (T)\nP.HAMZA/P.AFFAN (S)\nP.DR.ADEEL (TH)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "F16",
+   "period": 5,
+   "period_id": "Y1:6",
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "CHEM/COMP\nP.QAZA/ P.DR.ADEEL",
+   "after": "group: CHEM LAB (CL)",
+   "struck": [
+    "P.QAZA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S1A",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.SAAD (T)\nP.H.SHAHID (TH)\nP.RAZA (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S1A",
+   "period": 5,
+   "period_id": "Y2:6",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "Bio\nP. Raza",
+   "after": "CHEM P.H SHAHID ALI",
+   "struck": [
+    "P. Raza"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S1B",
+   "period": 2,
+   "period_id": "Y2:2",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Bio\nP. Raza",
+   "after": "BIO LAB (BL)",
+   "struck": [
+    "P. Raza"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S1B",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.SAAD (TH)\nP.H.SHAHID (S)\nP.RAZA (T)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S2",
+   "period": 1,
+   "period_id": "Y2:1",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Bio\nP. Raza",
+   "after": "BIO LAB (BL)",
+   "struck": [
+    "P. Raza"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S2",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "P.SAAD (S)\nP.H.SHAHID (T)\nP.RAZA (TH)",
+   "after": "PAK STUDIES P.SHUMAILA",
+   "struck": [
+    "P.RAZA"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S3",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.SAQIB (T)\nP.WAHAB (TH)\nP.SHERAZ (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S3",
+   "period": 7,
+   "period_id": "Y2:8",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "Bio\nP. Sheraz",
+   "after": "CHEM P.WAHAB",
+   "struck": [
+    "P. Sheraz"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S4",
+   "period": 1,
+   "period_id": "Y2:1",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "Bio\nP. Sheraz",
+   "after": "PAK STUDIES P.SHUMAILA",
+   "struck": [
+    "P. Sheraz"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S4",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "P.NAVEED (T)\nP.WAHAB (S)\nP.SHERAZ (TH)",
+   "after": "Sports period",
+   "struck": [
+    "P.SHERAZ"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S4",
+   "period": 5,
+   "period_id": "Y2:6",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "Phy\nP. Naveed Ikram",
+   "after": "Sports period",
+   "struck": [
+    "P. Naveed Ikram"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S6",
+   "period": 1,
+   "period_id": "Y2:1",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "Math\nP. Khair",
+   "after": "CHEM P.M SHAHID",
+   "struck": [
+    "P. Khair"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S6",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.SAQIB (TH)\nP.M.SHAHID (T)\nP.KHAIR (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S7",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "P.NAVEED (TH)\nP.MEHREEN (S)\nP.KHAIR (T)",
+   "after": "PAK STUDIES P.RIZWAN",
+   "struck": [
+    "P.NAVEED"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S7",
+   "period": 5,
+   "period_id": "Y2:6",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Math\nP. Khair",
+   "after": "COMP LAB (COL)",
+   "struck": [
+    "P. Khair"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S7",
+   "period": 6,
+   "period_id": "Y2:7",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Phy\nP. Naveed Ikram",
+   "after": "PHY LAB (PL)",
+   "struck": [
+    "P. Naveed Ikram"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S8",
+   "period": 2,
+   "period_id": "Y2:2",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Math\nP. Khair",
+   "after": "COMP LAB (COL)",
+   "struck": [
+    "P. Khair"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S8",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "P.NAVEED (S)\nP.MEHREEN (T)\nP.KHAIR (TH)",
+   "after": "PHY LAB (PL)",
+   "struck": [
+    "P.KHAIR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S8",
+   "period": 4,
+   "period_id": "Y2:4",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "Phy\nP. Naveed Ikram",
+   "after": "Sports period",
+   "struck": [
+    "P. Naveed Ikram"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S9",
+   "period": 2,
+   "period_id": "Y2:2",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Eng\nP. Atif Saeed",
+   "after": "PHY LAB (PL)",
+   "struck": [
+    "P. Atif Saeed"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S9",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.SAQIB (S)\nP.ARSLAN (T)\nP.ILLYAS (TH)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S10",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.NAYYAR (T)\nP.ARSLAN (TH)\nP.ILLYAS (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S10",
+   "period": 6,
+   "period_id": "Y2:7",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "Phy\nP. Nayyar Sultan",
+   "after": "MATH P.ILYAS",
+   "struck": [
+    "P. Nayyar Sultan"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S10",
+   "period": 7,
+   "period_id": "Y2:8",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Eng\nP. Atif Saeed",
+   "after": "COMP LAB (COL)",
+   "struck": [
+    "P. Atif Saeed"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S11",
+   "period": 2,
+   "period_id": "Y2:2",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "Phy\nP. Nayyar Sultan",
+   "after": "Sports period",
+   "struck": [
+    "P. Nayyar Sultan"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S11",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.NAYYAR (S)\nP.M.SHAHID (TH)\nP.SHERAZ (T)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S11",
+   "period": 4,
+   "period_id": "Y2:4",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "Eng\nP. Atif Saeed",
+   "after": "Sports period",
+   "struck": [
+    "P. Atif Saeed"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S11",
+   "period": 5,
+   "period_id": "Y2:6",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "Bio\nP. Sheraz",
+   "after": "Sports period",
+   "struck": [
+    "P. Sheraz"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S12",
+   "period": 1,
+   "period_id": "Y2:1",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "Eng\nP. Atif Saeed",
+   "after": "TQ P.ASMA",
+   "struck": [
+    "P. Atif Saeed"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S12",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ADJ"
+   ],
+   "before": "P.NAYYAR (TH)\nP.WAHAB (T)\nP.MISBAH (S)",
+   "after": "BIO P.MISBAH",
+   "struck": [
+    "P.NAYYAR"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S12",
+   "period": 7,
+   "period_id": "Y2:8",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Phy\nP. Nayyar Sultan",
+   "after": "BIO LAB (BL)",
+   "struck": [
+    "P. Nayyar Sultan"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S13",
+   "period": 1,
+   "period_id": "Y2:1",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "SPORT"
+   ],
+   "before": "Comp  / Chem\nP.MEHREEN/P.Qaza",
+   "after": "group: Sports period",
+   "struck": [
+    "P.Qaza"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S13",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.IBTSAM (T)\nP.QAZA (S)\nP.USMAN (TH)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S13",
+   "period": 6,
+   "period_id": "Y2:7",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "LAB"
+   ],
+   "before": "Phy\nP. Ibtsam",
+   "after": "COMP LAB (COL)",
+   "struck": [
+    "P. Ibtsam"
+   ],
+   "reason": null
+  },
+  {
+   "section": "S14",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.AMIRA (S)\nP.MEHREEN (TH)\nP.USMAN (T)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S15",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.AMIRA (T)\nP.NASEER (TH)\nP.USMAN (S)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S15",
+   "period": 6,
+   "period_id": "Y2:7",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P. Naseer (M,T,W,F,S)\nP.ARSLAN (TH)",
+   "after": null,
+   "struck": [],
+   "reason": null
+  },
+  {
+   "section": "S16",
+   "period": 3,
+   "period_id": "Y2:3",
+   "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)",
+   "codes": [
+    "ROT"
+   ],
+   "before": "P.AMIRA (TH)\nP.M.SHAHID (S)\nP.MISBAH (T)\nP.M.ALI",
+   "after": null,
+   "struck": [],
+   "reason": null
+  }
+ ],
+ "teacher_loads": {
+  "A REHMAN": 4,
+  "ABDUL RAZA": 4,
+  "ADEEL MANSHA": 5,
+  "ADNAN MALOOK": 4,
+  "AFFAN": 4,
+  "ALI HASSAN": 4,
+  "ALI KHAN": 4,
+  "ALIYA": 4,
+  "AMIRA": 4,
+  "AMNA KHALID": 4,
+  "ARSLAN": 5,
+  "ASHRAF": 4,
+  "ASMA": 4,
+  "ATIF NAWAZ": 4,
+  "ATTIYA": 4,
+  "AYESHA": 4,
+  "DR ADEEL": 4,
+  "FARRUKH": 4,
+  "GULZAR": 4,
+  "H SHAHID ALI": 5,
+  "HABIBA": 4,
+  "HAFSA IJAZ": 5,
+  "HAMZA": 5,
+  "ILYAS": 4,
+  "IMRAN MALIK": 4,
+  "IRFAN": 5,
+  "KHUBAIB": 4,
+  "M ALI": 5,
+  "M SHAHID": 5,
+  "MEHREEN": 5,
+  "MISBAH": 3,
+  "MUKARRAM": 4,
+  "NAEEM": 4,
+  "NAILA": 4,
+  "NASEER": 4,
+  "NAVEED AHMAD": 4,
+  "NIAZ": 4,
+  "RIZWAN": 4,
+  "RUQAYA": 4,
+  "SAAD ULLAH": 4,
+  "SABA": 4,
+  "SAQIB JAMIL": 4,
+  "SHAHIDA": 4,
+  "SHUMAILA": 4,
+  "UMER SHEIKH": 4,
+  "USMAN": 4,
+  "WAHAB": 5,
+  "ZAHIDA": 4,
+  "ZAMAN": 2
+ },
+ "rules_used": [
+  "allow_rotation_shuffle",
+  "available_window",
+  "avoid_consecutive",
+  "avoid_sports_period",
+  "consecutive_limit",
+  "counsellors",
+  "extra_subject_priority",
+  "fill_costs",
+  "lab_daily_cap",
+  "lab_needs_incharge",
+  "lock_subjects",
+  "lock_teachers",
+  "max_extra_per_section",
+  "max_lectures_per_day",
+  "no_extra_lectures",
+  "science_not_last",
+  "shuffle_penalty",
+  "sports_limit"
+ ],
+ "base_conflicts": [
+  "IRFAN is in 2 places at FY 2026 (NON TEST) (2) P6 in the base timetable",
+  "IRFAN is in 2 places at FY 2026 (NON TEST) (2) P7 in the base timetable",
+  "IRFAN is in 2 places at SY 2026 (N-TEST) (UPDATE) (SAT) P6 in the base timetable",
+  "IRFAN is in 2 places at SY 2026 (N-TEST) (UPDATE) (SAT) P7 in the base timetable",
+  "M ALI is in 2 places at FY 2026 (NON TEST) (2) P6 in the base timetable",
+  "M ALI is in 2 places at SY 2026 (N-TEST) (UPDATE) (SAT) P6 in the base timetable"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "_note": "Benchmark: Thursday 12-11-2026 (non-test day), the admin's first real case. Inputs from the chat record (section 2.1). The admin's final sheets are the reference result.",
+  "date": "2026-11-12",
+  "day": "THU",
+  "sheets": [
+    {"file": "../../../data/1-1ST_YEAR_2026_UPDATED_17-10-2026.json", "sheet": "FY 2026 (NON TEST) (2)", "year": "1st Year"},
+    {"file": "../../../data/2-2ND_YEAR_2026_UPDATED_17-10-2026.json", "sheet": "SY 2026 (N-TEST) (UPDATE) (SAT)", "year": "2nd Year"}
+  ],
+  "rules": "../../rules/pilot_college_rules.json",
+  "extra_teachers": [
+    {"name": "GM CH", "category": "lab_incharge"},
+    {"name": "SANA ASGHAR", "category": "lab_incharge"},
+    {"name": "SANA YOUNAS", "category": "lab_incharge"},
+    {"name": "RIDA ZAHRA", "category": "lab_incharge"},
+    {"name": "RIDA ZAHRA COUNSELLOR", "category": "counsellor"},
+    {"name": "HAFSA MUSHTAQ", "category": "counsellor"}
+  ],
+  "labs": {
+    "PL": {"name": "PHY LAB (PL)", "incharge": "GM CH"},
+    "CL": {"name": "CHEM LAB (CL)", "incharge": "SANA ASGHAR"},
+    "BL": {"name": "BIO LAB (BL)", "incharge": "SANA YOUNAS"},
+    "COL": {"name": "COMP LAB (COL)", "incharge": "RIDA ZAHRA"}
+  },
+  "events": [
+    {"teacher": "UMER HAYAT", "type": "absent"},
+    {"teacher": "MAHPARA", "type": "absent"},
+    {"teacher": "UZMA", "type": "absent"},
+    {"teacher": "SHERAZ", "type": "absent"},
+    {"teacher": "KHAIR", "type": "absent"},
+    {"teacher": "ATIF SAEED", "type": "absent"},
+    {"teacher": "QAZA", "type": "absent"},
+    {"teacher": "NAYYAR SULTAN", "type": "absent"},
+    {"teacher": "WAQAR", "type": "absent"},
+    {"teacher": "IBTSAM", "type": "absent"},
+    {"teacher": "WASEEM", "type": "absent"},
+    {"teacher": "ZULFIQAR", "type": "absent"},
+    {"teacher": "RAZA", "type": "absent", "reason": "Raza ur Rehman (2nd year Bio)"},
+    {"teacher": "NAVEED IKRAM", "type": "absent"},
+    {"teacher": "ALIYA", "type": "late", "from": "10:00"},
+    {"teacher": "IMRAN MALIK", "type": "free_block", "from": "09:30", "to": "11:00", "reason": "sports class (2 consecutive lectures)"}
+  ]
+}

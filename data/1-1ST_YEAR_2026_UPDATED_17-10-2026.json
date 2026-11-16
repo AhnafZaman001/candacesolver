@@ -1,0 +1,8256 @@
+{
+ "source_file": "1-1ST YEAR 2026 UPDATED (17-10-2026).xlsx",
+ "sheets": [
+  {
+   "sheet": "FY 2026 (TEST) (2)",
+   "title": "1ST YEAR TIMETABLE 2026 (TEST) 04-11-2026",
+   "date": "2026-11-04",
+   "total_strength": "892",
+   "schedule": [
+    {
+     "period": null,
+     "kind": "test",
+     "time": {
+      "start": "07:50",
+      "end": "08:40"
+     },
+     "label": "TEST"
+    },
+    {
+     "period": 1,
+     "kind": "class",
+     "time": {
+      "start": "08:40",
+      "end": "09:30"
+     },
+     "label": "1"
+    },
+    {
+     "period": 2,
+     "kind": "class",
+     "time": {
+      "start": "09:30",
+      "end": "10:15"
+     },
+     "label": "2"
+    },
+    {
+     "period": 3,
+     "kind": "class",
+     "time": {
+      "start": "10:15",
+      "end": "11:00"
+     },
+     "label": "3"
+    },
+    {
+     "kind": "break",
+     "time": {
+      "start": "11:00",
+      "end": "11:30"
+     },
+     "label": "11:00-11:30"
+    },
+    {
+     "period": 4,
+     "kind": "class",
+     "time": {
+      "start": "11:30",
+      "end": "12:20"
+     },
+     "label": "4"
+    },
+    {
+     "period": 5,
+     "kind": "class",
+     "time": {
+      "start": "12:20",
+      "end": "13:10"
+     },
+     "label": "5"
+    },
+    {
+     "period": 6,
+     "kind": "class",
+     "time": {
+      "start": "13:10",
+      "end": "14:00"
+     },
+     "label": "6"
+    }
+   ],
+   "sections": [
+    {
+     "section": "F1A",
+     "section_raw": "F-1A\nPM",
+     "group": "PM",
+     "room": "K-4",
+     "merit": "530+",
+     "strength": 52,
+     "class_teacher": {
+      "teacher": "AMNA KHALID",
+      "raw": "P.AMNA KHALID"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. AMNA KH",
+       "invigilators": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P. AMNA KH",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY\nP.ZAMAN",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "subject": "PHY",
+         "teacher_id": "ZAMAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F1B",
+     "section_raw": "F-1B \nPM",
+     "group": "PM",
+     "room": "K-5",
+     "merit": "529-515",
+     "strength": 53,
+     "class_teacher": {
+      "teacher": "ALIYA",
+      "raw": "P.ALIYA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "EXAM CELL",
+       "invigilators": [
+        {
+         "teacher": "EXAM CELL",
+         "teacher_raw": "EXAM CELL",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY\nP.ZAMAN",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "subject": "PHY",
+         "teacher_id": "ZAMAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F2",
+     "section_raw": "F-2\nPM",
+     "group": "PM",
+     "room": "K-6",
+     "merit": "514-490",
+     "strength": 52,
+     "class_teacher": {
+      "teacher": "MAHPARA",
+      "raw": "P.MAHPARA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. MAHPARA",
+       "invigilators": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P. MAHPARA",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F3",
+     "section_raw": "F-3\nPM",
+     "group": "PM",
+     "room": "K-7",
+     "merit": "489-470",
+     "strength": 57,
+     "class_teacher": {
+      "teacher": "AFFAN",
+      "raw": "P.AFFAN"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. AFFAN",
+       "invigilators": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P. AFFAN",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "BIO\nP.AFFAN",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F5",
+     "section_raw": "F-5\nPM",
+     "group": "PM",
+     "room": "K-3",
+     "merit": "JULY SESSION",
+     "strength": 53,
+     "class_teacher": {
+      "teacher": "ADEEL M",
+      "raw": "P.ADEEL M"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. ADEEL MANSHA",
+       "invigilators": [
+        {
+         "teacher": "ADEEL MANSHA",
+         "teacher_raw": "P. ADEEL MANSHA",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "BIO\nP.AFFAN",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "PHY\nP.ZULFIQAR",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F6",
+     "section_raw": "F-6\nPE+\nICS (P)",
+     "group": "PE+ ICS (P)",
+     "room": "K-2",
+     "merit": "ALL",
+     "strength": 54,
+     "class_teacher": {
+      "teacher": "HAFSA",
+      "raw": "P.HAFSA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. HAFSA",
+       "invigilators": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P. HAFSA",
+         "teacher_id": "HAFSA IJAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "CHEM/COMP\nP.HAFSA/ P.ADNAN",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "subject": "CHEM",
+         "teacher_id": "HAFSA IJAZ"
+        },
+        {
+         "teacher": "ADNAN",
+         "teacher_raw": "P.ADNAN",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "PHY\nP.ALI HASSAN",
+       "entries": [
+        {
+         "teacher": "ALI HASSAN",
+         "teacher_raw": "P.ALI HASSAN",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.SABA",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F7",
+     "section_raw": "F-7\nICS (P/S)",
+     "group": "ICS (P/S)",
+     "room": "K-1",
+     "merit": "91.5% & ABOVE",
+     "strength": 58,
+     "class_teacher": {
+      "teacher": "SABA",
+      "raw": "P.SABA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.SABA",
+       "invigilators": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "MATH\nP.SABA",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "COMP\nP.ADNAN M",
+       "entries": [
+        {
+         "teacher": "ADNAN M",
+         "teacher_raw": "P.ADNAN M",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY/STAT\nP.ALI H / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F8",
+     "section_raw": "F-8\nICS(P/S)+I.COM",
+     "group": "ICS(P/S)+I.COM",
+     "room": "K-11",
+     "merit": "REGULAR",
+     "strength": 47,
+     "class_teacher": {
+      "teacher": "MUKARRAM",
+      "raw": "P.MUKARRAM"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. ALI HASSAN",
+       "invigilators": [
+        {
+         "teacher": "ALI HASSAN",
+         "teacher_raw": "P. ALI HASSAN",
+         "teacher_id": "ALI HASSAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "MATH\nP.SABA\nP. A. REHMAN",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        },
+        {
+         "teacher": "A REHMAN",
+         "teacher_raw": "P. A. REHMAN",
+         "subject": "MATH",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "COMP\nP.DR.ADEEL\nP.M.ALI",
+       "entries": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        },
+        {
+         "teacher": "M ALI",
+         "teacher_raw": "P.M.ALI",
+         "subject": "COMP",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY / STAT\nP.ALI H / P.IRFAN\nP. M. ALI",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        },
+        {
+         "teacher": "M ALI",
+         "teacher_raw": "P. M. ALI",
+         "subject": "PHY / STAT",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F9",
+     "section_raw": "F9\nICS",
+     "group": "ICS",
+     "room": "K-9",
+     "merit": "87.9%-80%",
+     "strength": 48,
+     "class_teacher": {
+      "teacher": "UZMA",
+      "raw": "P.UZMA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. HAMZA",
+       "invigilators": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P. HAMZA",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "MATH\nP.HAMZA",
+       "entries": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "COMP\nP.WASEEM",
+       "entries": [
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY\nP.ZULFIQAR",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F10",
+     "section_raw": "F-10\nPE+ICS",
+     "group": "PE+ICS",
+     "room": "K-14",
+     "merit": "JULY SESSION",
+     "strength": 63,
+     "class_teacher": {
+      "teacher": "ATIF NAWAZ",
+      "raw": "P.ATIF NAWAZ"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "EXAM CELL",
+       "invigilators": [
+        {
+         "teacher": "EXAM CELL",
+         "teacher_raw": "EXAM CELL",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.HAMZA",
+       "entries": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "CHEM/COMP\nP. HAFSA /\nP.WASEEM",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P. HAFSA",
+         "subject": "CHEM/COMP",
+         "teacher_id": "HAFSA IJAZ"
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "CHEM/COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY / STAT\nP.ZULFIQAR / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F11",
+     "section_raw": "F11\nPM",
+     "group": "PM",
+     "room": "K-15",
+     "merit": "1040+",
+     "strength": 62,
+     "class_teacher": {
+      "teacher": "UMER HAYAT",
+      "raw": "P.UMER HAYAT"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.GM.CH.",
+       "invigilators": [
+        {
+         "teacher": "GM CH",
+         "teacher_raw": "P.GM.CH",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "BIO\nP.UMER HAYAT",
+       "entries": [
+        {
+         "teacher": "UMER HAYAT",
+         "teacher_raw": "P.UMER HAYAT",
+         "subject": "BIO",
+         "teacher_id": "U MER HAYAT"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "CHEM\nP.HAFSA",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "subject": "CHEM",
+         "teacher_id": "HAFSA IJAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "PHY\nP.IBTSAM",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "subject": "PHY",
+         "teacher_id": "IBTSAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F12",
+     "section_raw": "F12\nPM",
+     "group": "PM",
+     "room": "K-16",
+     "merit": "1039 & BELOW",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "RUQAYA",
+      "raw": "P.RUQAYA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.AYESHA FARRUKH",
+       "invigilators": [
+        {
+         "teacher": "AYESHA FARRUKH",
+         "teacher_raw": "P.AYESHA FARRUKH",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "BIO\nP.UER HAYAT",
+       "entries": [
+        {
+         "teacher": "UER HAYAT",
+         "teacher_raw": "P.UER HAYAT",
+         "subject": "BIO",
+         "teacher_id": "U MER HAYAT"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY\nP.IBTSAM",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "subject": "PHY",
+         "teacher_id": "IBTSAM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F13",
+     "section_raw": "F13\nPE+ICS",
+     "group": "PE+ICS",
+     "room": "K-13",
+     "merit": "1090+",
+     "strength": 61,
+     "class_teacher": {
+      "teacher": "NAILA",
+      "raw": "P.NAILA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.ALI KHAN",
+       "invigilators": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "CHEM/COMP\nP.QAZA/ P.WASEEM",
+       "entries": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "subject": "CHEM",
+         "teacher_id": "QAZA"
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY\nP.WAQAR",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F14",
+     "section_raw": "F14\nICS (P/S)",
+     "group": "ICS (P/S)",
+     "room": "K-10+12",
+     "merit": "1079-1015\n+ STAT",
+     "strength": 55,
+     "class_teacher": {
+      "teacher": "AB RAZA",
+      "raw": "P.AB RAZA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.ADNAN MALOOK",
+       "invigilators": [
+        {
+         "teacher": "ADNAN MALOOK",
+         "teacher_raw": "P.ADNAN MALOOK",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "COMP\nP.ADNAN M",
+       "entries": [
+        {
+         "teacher": "ADNAN M",
+         "teacher_raw": "P.ADNAN M",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY / STAT\nP.WAQAR / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F15",
+     "section_raw": "F15\nICS",
+     "group": "ICS",
+     "room": "K-8",
+     "merit": "1014-840",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "HABIBA",
+      "raw": "P.HABIBA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.DR.ADEEL",
+       "invigilators": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "COMP\nP. DR. ADEEL",
+       "entries": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P. DR. ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "PHY\nP.WAQAR",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F16",
+     "section_raw": "F16\nPM+ICS",
+     "group": "PM+ICS",
+     "room": "K-44",
+     "merit": "LESS THAN 840",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "HAMZA",
+      "raw": "P.HAMZA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": null,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.AB REHMAN",
+       "invigilators": [
+        {
+         "teacher": "AB REHMAN",
+         "teacher_raw": "P.AB REHMAN",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "BIO / MATH\nP.AFFAN/P.HAMZA",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        },
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "CHEM/COMP\nP.QAZA/ P.DR.ADEEL",
+       "entries": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "subject": "CHEM",
+         "teacher_id": "QAZA"
+        },
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "subject_teacher_roster": [
+    {
+     "subject": "PHYSICS",
+     "teacher": "ZAMAN",
+     "teacher_raw": "P.ZAMAN",
+     "sections": [
+      "F1A",
+      "F1B"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "AMNA KHALID",
+     "teacher_raw": "P.AMNA KHALID",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "SHAHIDA",
+     "teacher_raw": "P.SHAHIDA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "ALIYA",
+     "teacher_raw": "P.ALIYA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F10"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "NAVEED AHMAD",
+     "teacher_raw": "P.NAVEED AHMAD",
+     "sections": [
+      "F2",
+      "F3",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "HAFSA IJAZ",
+     "teacher_raw": "P.HAFSA IJAZ",
+     "sections": [
+      "F6",
+      "F10",
+      "F11"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "ABDUL RAZA",
+     "teacher_raw": "P.ABDUL RAZA",
+     "sections": [
+      "F3",
+      "F5",
+      "F13",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "HABIBA",
+     "teacher_raw": "P.HABIBA",
+     "sections": [
+      "F3",
+      "F5",
+      "F15",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "ALI HASSAN",
+     "teacher_raw": "P.ALI HASSAN",
+     "sections": [
+      "F6",
+      "F7",
+      "F8"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "ADEEL MANSHA",
+     "teacher_raw": "P.ADEEL MANSHA",
+     "sections": [
+      "F3",
+      "F5",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "MUKARRAM",
+     "teacher_raw": "P.MUKARRAM",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "NIAZ",
+     "teacher_raw": "P.NIAZ",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F9"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "ZULFIQAR",
+     "teacher_raw": "P.ZULFIQAR",
+     "sections": [
+      "F5",
+      "F9",
+      "F10"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "QAZA",
+     "teacher_raw": "P.QAZA",
+     "sections": [
+      "F13",
+      "F16",
+      "S13"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "UZMA",
+     "teacher_raw": "P.UZMA",
+     "sections": [
+      "F9",
+      "F10",
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "RUQAYA",
+     "teacher_raw": "P.RUQAYA",
+     "sections": [
+      "F11",
+      "F12",
+      "F13",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "IBTSAM",
+     "teacher_raw": "P.IBTSAM",
+     "sections": [
+      "S13",
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "WAQAR",
+     "teacher_raw": "P.WAQAR",
+     "sections": [
+      "F13",
+      "F14",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "MAHPARA",
+     "teacher_raw": "P.MAHPARA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "SABA",
+     "teacher_raw": "P.SABA",
+     "sections": [
+      "F6",
+      "F7",
+      "F8"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "IMRAN MALIK",
+     "teacher_raw": "P.IMRAN MALIK",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "ADNAN MALOOK",
+     "teacher_raw": "P.ADNAN MALOOK",
+     "sections": [
+      "F6",
+      "F7",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "AFFAN",
+     "teacher_raw": "P.AFFAN",
+     "sections": [
+      "F3",
+      "F5",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "HAMZA",
+     "teacher_raw": "P.HAMZA",
+     "sections": [
+      "F9",
+      "F10",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "NAILA",
+     "teacher_raw": "P.NAILA",
+     "sections": [
+      "F3",
+      "F5",
+      "F13",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "WASEEM",
+     "teacher_raw": "P.WASEEM",
+     "sections": [
+      "F9",
+      "F10",
+      "F13"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "U MER HAYAT",
+     "teacher_raw": "P.U MER HAYAT",
+     "sections": [
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "ALI KHAN",
+     "teacher_raw": "P.ALI KHAN",
+     "sections": [
+      "F13",
+      "F14",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "ASHRAF",
+     "teacher_raw": "P.ASHRAF",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "DR ADEEL",
+     "teacher_raw": "P. DR. ADEEL",
+     "sections": [
+      "F8",
+      "F15",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "STATISTICS",
+     "teacher": "IRFAN",
+     "teacher_raw": "P.IRFAN",
+     "sections": [
+      "F8",
+      "F10",
+      "F14"
+     ],
+     "notes": []
+    }
+   ]
+  },
+  {
+   "sheet": "FY 2026 (NON TEST) (2)",
+   "title": "1ST YEAR TIMETABLE 2026 (NON TEST) 07-11-2026",
+   "date": "2026-11-07",
+   "total_strength": "892",
+   "schedule": [
+    {
+     "period": 1,
+     "kind": "class",
+     "time": {
+      "start": "07:50",
+      "end": "08:40"
+     },
+     "label": "1"
+    },
+    {
+     "period": 2,
+     "kind": "class",
+     "time": {
+      "start": "08:40",
+      "end": "09:30"
+     },
+     "label": "2"
+    },
+    {
+     "period": 3,
+     "kind": "class",
+     "time": {
+      "start": "09:30",
+      "end": "10:15"
+     },
+     "label": "3"
+    },
+    {
+     "period": 4,
+     "kind": "class",
+     "time": {
+      "start": "10:15",
+      "end": "11:00"
+     },
+     "label": "4"
+    },
+    {
+     "kind": "break",
+     "time": {
+      "start": "11:00",
+      "end": "11:30"
+     },
+     "label": "11:00-11:30"
+    },
+    {
+     "period": 5,
+     "kind": "class",
+     "time": {
+      "start": "11:30",
+      "end": "12:20"
+     },
+     "label": "5"
+    },
+    {
+     "period": 6,
+     "kind": "class",
+     "time": {
+      "start": "12:20",
+      "end": "13:10"
+     },
+     "label": "6"
+    },
+    {
+     "period": 7,
+     "kind": "class",
+     "time": {
+      "start": "13:10",
+      "end": "14:00"
+     },
+     "label": "7"
+    }
+   ],
+   "sections": [
+    {
+     "section": "F1A",
+     "section_raw": "F-1A\nPM",
+     "group": "PM",
+     "room": "K-4",
+     "merit": "530+",
+     "strength": 52,
+     "class_teacher": {
+      "teacher": "AMNA KHALID",
+      "raw": "P.AMNA KHALID"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ZAMAN (T)\nP.AMNA KH (S)\nP.MAHPARA (TH)",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "days": [
+          "TUE"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ZAMAN",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "days": [
+          "SAT"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "AMNA KHALID",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "days": [
+          "THU"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "MAHPARA",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY\nP.ZAMAN",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "subject": "PHY",
+         "teacher_id": "ZAMAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F1B",
+     "section_raw": "F-1B \nPM",
+     "group": "PM",
+     "room": "K-5",
+     "merit": "529-515",
+     "strength": 53,
+     "class_teacher": {
+      "teacher": "ALIYA",
+      "raw": "P.ALIYA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ZAMAN (S)\nP.AMNA KH (TH)\nP.MAHPARA (T)",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "days": [
+          "SAT"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ZAMAN",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "days": [
+          "THU"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "AMNA KHALID",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "days": [
+          "TUE"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "MAHPARA",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY\nP.ZAMAN",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "subject": "PHY",
+         "teacher_id": "ZAMAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F2",
+     "section_raw": "F-2\nPM",
+     "group": "PM",
+     "room": "K-6",
+     "merit": "514-490",
+     "strength": 52,
+     "class_teacher": {
+      "teacher": "MAHPARA",
+      "raw": "P.MAHPARA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.NAVEED AH (TH)\nP.AMNA KH (T)\nP.MAHPARA (S)",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "days": [
+          "THU"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "NAVEED AHMAD",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "days": [
+          "TUE"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "AMNA KHALID",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "days": [
+          "SAT"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "MAHPARA",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F3",
+     "section_raw": "F-3\nPM",
+     "group": "PM",
+     "room": "K-7",
+     "merit": "489-470",
+     "strength": 57,
+     "class_teacher": {
+      "teacher": "AFFAN",
+      "raw": "P.AFFAN"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.NAVEED AH (S)\nP.ADEEL M (T)\nP.AFFAN (TH)",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "days": [
+          "SAT"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "NAVEED AHMAD",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "days": [
+          "TUE"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "ADEEL MANSHA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "days": [
+          "THU"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "AFFAN",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "BIO\nP.AFFAN",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F5",
+     "section_raw": "F-5\nPM",
+     "group": "PM",
+     "room": "K-3",
+     "merit": "JULY SESSION",
+     "strength": 53,
+     "class_teacher": {
+      "teacher": "ADEEL M",
+      "raw": "P.ADEEL M"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "BIO\nP.AFFAN",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ZULFIQAR (S)\nP.ADEEL M (TH)\nP.AFFAN (T)",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "days": [
+          "SAT"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ZULFIQAR",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "days": [
+          "THU"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "ADEEL MANSHA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "days": [
+          "TUE"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "AFFAN",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "PHY\nP.ZULFIQAR",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F6",
+     "section_raw": "F-6\nPE+\nICS (P)",
+     "group": "PE+ ICS (P)",
+     "room": "K-2",
+     "merit": "ALL",
+     "strength": 54,
+     "class_teacher": {
+      "teacher": "HAFSA",
+      "raw": "P.HAFSA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "CHEM/COMP\nP.HAFSA/\nP.ADNAN",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "subject": "CHEM/COMP",
+         "teacher_id": "HAFSA IJAZ"
+        },
+        {
+         "teacher": "ADNAN",
+         "teacher_raw": "P.ADNAN",
+         "subject": "CHEM/COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ALI H (T)\nP.HAFSA (TH)\nP.ADNAN (TH)\nP.SABA (S)",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "days": [
+          "TUE"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ALI HASSAN",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "days": [
+          "THU"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "HAFSA IJAZ",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ADNAN",
+         "teacher_raw": "P.ADNAN",
+         "days": [
+          "THU"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "ADNAN MALOOK",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "days": [
+          "SAT"
+         ],
+         "subject": "MATH",
+         "teacher_id": "SABA",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "PHY\nP.ALI HASSAN",
+       "entries": [
+        {
+         "teacher": "ALI HASSAN",
+         "teacher_raw": "P.ALI HASSAN",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.SABA",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F7",
+     "section_raw": "F-7\nICS (P/S)",
+     "group": "ICS (P/S)",
+     "room": "K-1",
+     "merit": "91.5% & ABOVE",
+     "strength": 58,
+     "class_teacher": {
+      "teacher": "MUKARRAM",
+      "raw": "P.MUKARRAM"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ALI H (TH)\nP.ADNAN (S)\nP.SABA (T)",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "days": [
+          "THU"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ALI HASSAN",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ADNAN",
+         "teacher_raw": "P.ADNAN",
+         "days": [
+          "SAT"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "ADNAN MALOOK",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "days": [
+          "TUE"
+         ],
+         "subject": "MATH",
+         "teacher_id": "SABA",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "MATH\nP.SABA",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "COMP\nP.ADNAN M",
+       "entries": [
+        {
+         "teacher": "ADNAN M",
+         "teacher_raw": "P.ADNAN M",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY/STAT\nP.ALI H / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F8",
+     "section_raw": "F-8\nICS(P/S)+I.COM",
+     "group": "ICS(P/S)+I.COM",
+     "room": "K-11",
+     "merit": "REGULAR",
+     "strength": 47,
+     "class_teacher": {
+      "teacher": "SABA",
+      "raw": "P.SABA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "MATH\nP.SABA\nP. A. REHMAN",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        },
+        {
+         "teacher": "A REHMAN",
+         "teacher_raw": "P. A. REHMAN",
+         "subject": "MATH",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ALI H (S)\nP.DR.ADEEL (T)\nP.SABA (TH)\nP. A. REHMAN",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "days": [
+          "SAT"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ALI HASSAN",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "days": [
+          "TUE"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "DR ADEEL",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "days": [
+          "THU"
+         ],
+         "subject": "MATH",
+         "teacher_id": "SABA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "A REHMAN",
+         "teacher_raw": "P. A. REHMAN",
+         "subject": null,
+         "teacher_id": null
+        }
+       ],
+       "needs_review": true
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "COMP\nP.DR.ADEEL\nP.M.ALI",
+       "entries": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        },
+        {
+         "teacher": "M ALI",
+         "teacher_raw": "P.M.ALI",
+         "subject": "COMP",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY / STAT\nP.ALI H / P.IRFAN\nP. M. ALI",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        },
+        {
+         "teacher": "M ALI",
+         "teacher_raw": "P. M. ALI",
+         "subject": "PHY / STAT",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F9",
+     "section_raw": "F9\nICS",
+     "group": "ICS",
+     "room": "K-9",
+     "merit": "87.9%-80%",
+     "strength": 48,
+     "class_teacher": {
+      "teacher": "UZMA",
+      "raw": "P.UZMA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "MATH\nP.HAMZA",
+       "entries": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ZULFIQAR (T)\nP.ATIF NAWAZ (S)\nP.HAMZA (TH)",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "days": [
+          "TUE"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ZULFIQAR",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "days": [
+          "SAT"
+         ],
+         "subject": null,
+         "teacher_id": null
+        },
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "days": [
+          "THU"
+         ],
+         "subject": "MATH",
+         "teacher_id": "HAMZA",
+         "subject_inferred": true
+        }
+       ],
+       "needs_review": true
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "ISLAMIAT\nP.NIAZ",
+       "entries": [
+        {
+         "teacher": "NIAZ",
+         "teacher_raw": "P.NIAZ",
+         "subject": "ISLAMIAT",
+         "teacher_id": "NIAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "COMP\nP.WASEEM",
+       "entries": [
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY\nP.ZULFIQAR",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ \nCOMP P. WASEEM (S)",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P. WASEEM",
+         "days": [
+          "SAT"
+         ],
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F10",
+     "section_raw": "F-10\nPE+ICS",
+     "group": "PE+ICS",
+     "room": "K-14",
+     "merit": "JULY SESSION",
+     "strength": 63,
+     "class_teacher": {
+      "teacher": "ATIF NAWAZ",
+      "raw": "P.ATIF NAWAZ"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "ISLAMIAT\nP.ALIYA",
+       "entries": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.ZULFIQAR (TH)\nP.HAFSA/P.Waseem(S)\nP.HAMZA (T)",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "days": [
+          "THU"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "ZULFIQAR",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "days": [
+          "SAT"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "HAFSA IJAZ",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.Waseem",
+         "days": [
+          "SAT"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "WASEEM",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "days": [
+          "TUE"
+         ],
+         "subject": "MATH",
+         "teacher_id": "HAMZA",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ(S)",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "days": [
+          "SAT"
+         ],
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.HAMZA",
+       "entries": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "CHEM/COMP\nP. HAFSA /\nP.WASEEM",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P. HAFSA",
+         "subject": "CHEM/COMP",
+         "teacher_id": "HAFSA IJAZ"
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "CHEM/COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY / STAT\nP.ZULFIQAR / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F11",
+     "section_raw": "F11\nPM",
+     "group": "PM",
+     "room": "K-15",
+     "merit": "1040+",
+     "strength": 62,
+     "class_teacher": {
+      "teacher": "UMER HAYAT",
+      "raw": "P.UMER HAYAT"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "BIO\nP.UMER HAYAT",
+       "entries": [
+        {
+         "teacher": "UMER HAYAT",
+         "teacher_raw": "P.UMER HAYAT",
+         "subject": "BIO",
+         "teacher_id": "U MER HAYAT"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.IBTSAM (S)\nP.HAFSA(T)\nP.UMER H (TH)",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "days": [
+          "SAT"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "IBTSAM",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "days": [
+          "TUE"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "HAFSA IJAZ",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "UMER H",
+         "teacher_raw": "P.UMER H",
+         "days": [
+          "THU"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "U MER HAYAT",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "CHEM\nP.HAFSA",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "subject": "CHEM",
+         "teacher_id": "HAFSA IJAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "PHY\nP.IBTSAM",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "subject": "PHY",
+         "teacher_id": "IBTSAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F12",
+     "section_raw": "F12\nPM",
+     "group": "PM",
+     "room": "K-16",
+     "merit": "1039 & BELOW",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "RUQAYA",
+      "raw": "P.RUQAYA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.IBTSAM (TH)\nP.ADEEL M (S)\nP.UMER H (T)",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "days": [
+          "THU"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "IBTSAM",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "days": [
+          "SAT"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "ADEEL MANSHA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "UMER H",
+         "teacher_raw": "P.UMER H",
+         "days": [
+          "TUE"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "U MER HAYAT",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "BIO\nP.UER HAYAT",
+       "entries": [
+        {
+         "teacher": "UER HAYAT",
+         "teacher_raw": "P.UER HAYAT",
+         "subject": "BIO",
+         "teacher_id": "U MER HAYAT"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY\nP.IBTSAM",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "subject": "PHY",
+         "teacher_id": "IBTSAM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F13",
+     "section_raw": "F13\nPE+ICS",
+     "group": "PE+ICS",
+     "room": "K-13",
+     "merit": "1090+",
+     "strength": 61,
+     "class_teacher": {
+      "teacher": "NAILA",
+      "raw": "P.NAILA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.RUQAYA (TH)\nP.QAZA/P.WASEEM(T)\nP.ALI KHAN (S)",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "days": [
+          "THU"
+         ],
+         "subject": "ISLAMIYAT",
+         "teacher_id": "RUQAYA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "days": [
+          "TUE"
+         ],
+         "subject": "CHEMISTRY",
+         "teacher_id": "QAZA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "days": [
+          "TUE"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "WASEEM",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "days": [
+          "SAT"
+         ],
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "CHEM/COMP\nP.QAZA/ P.WASEEM",
+       "entries": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "subject": "CHEM",
+         "teacher_id": "QAZA"
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA (M,T,W,S)\nPHY P.WAQAR (TH)",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "days": [
+          "MON",
+          "TUE",
+          "WED",
+          "SAT"
+         ],
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        },
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "days": [
+          "THU"
+         ],
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "PHY\nP.WAQAR",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F14",
+     "section_raw": "F14\nICS (P/S)",
+     "group": "ICS (P/S)",
+     "room": "K-10+12",
+     "merit": "1079-1015\n+ STAT",
+     "strength": 55,
+     "class_teacher": {
+      "teacher": "AB RAZA",
+      "raw": "P.AB RAZA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "COMP\nP.ADNAN M",
+       "entries": [
+        {
+         "teacher": "ADNAN M",
+         "teacher_raw": "P.ADNAN M",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.WAQAR (S)\nP.ADNAN (T)\nP.ALI KHAN (TH)",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "days": [
+          "SAT"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "WAQAR",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ADNAN",
+         "teacher_raw": "P.ADNAN",
+         "days": [
+          "TUE"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "ADNAN MALOOK",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "days": [
+          "THU"
+         ],
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "PHY / STAT\nP.WAQAR / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ISLAMIAT\nP.RUQAYA",
+       "entries": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F15",
+     "section_raw": "F15\nICS",
+     "group": "ICS",
+     "room": "K-8",
+     "merit": "1014-840",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "HABIBA",
+      "raw": "P.HABIBA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "COMP\nP. DR. ADEEL",
+       "entries": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P. DR. ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.WAQAR (TH)\nP.DR.ADEEL (S)\nP.ALI K (T)",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "days": [
+          "THU"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "WAQAR",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "days": [
+          "SAT"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "DR ADEEL",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "ALI K",
+         "teacher_raw": "P.ALI K",
+         "days": [
+          "TUE"
+         ],
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "PHY\nP.WAQAR",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F16",
+     "section_raw": "F16\nPM+ICS+I.Com",
+     "group": "PM+ICS+I.Com",
+     "room": "K-44",
+     "merit": "LESS THAN 840",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "HAMZA",
+      "raw": "P.HAMZA"
+     },
+     "slots": [
+      {
+       "kind": "class",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:30"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:30",
+        "end": "10:15"
+       },
+       "raw": "P.NAVEED AH (T)\nP.HAMZA/P.AFFAN (S)\nP.DR.ADEEL (TH)",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "days": [
+          "TUE"
+         ],
+         "subject": "PHYSICS",
+         "teacher_id": "NAVEED AHMAD",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "days": [
+          "SAT"
+         ],
+         "subject": "MATH",
+         "teacher_id": "HAMZA",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "days": [
+          "SAT"
+         ],
+         "subject": "BIOLOGY",
+         "teacher_id": "AFFAN",
+         "subject_inferred": true
+        },
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "days": [
+          "THU"
+         ],
+         "subject": "COMPUTER",
+         "teacher_id": "DR ADEEL",
+         "subject_inferred": true
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:15",
+        "end": "11:00"
+       },
+       "raw": "BIO / MATH\nP.AFFAN/P.HAMZA",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        },
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:30",
+        "end": "12:20"
+       },
+       "raw": "CHEM/COMP\nP.QAZA/ P.DR.ADEEL",
+       "entries": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "subject": "CHEM",
+         "teacher_id": "QAZA"
+        },
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "12:20",
+        "end": "13:10"
+       },
+       "raw": "ISLAMIAT\nP.HABIBA",
+       "entries": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "subject": "ISLAMIAT",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 7,
+       "time": {
+        "start": "13:10",
+        "end": "14:00"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "subject_teacher_roster": [
+    {
+     "subject": "PHYSICS",
+     "teacher": "ZAMAN",
+     "teacher_raw": "P.ZAMAN",
+     "sections": [
+      "F1A",
+      "F1B"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "AMNA KHALID",
+     "teacher_raw": "P.AMNA KHALID",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "SHAHIDA",
+     "teacher_raw": "P.SHAHIDA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "ALIYA",
+     "teacher_raw": "P.ALIYA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F10"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "NAVEED AHMAD",
+     "teacher_raw": "P.NAVEED AHMAD",
+     "sections": [
+      "F2",
+      "F3",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "HAFSA IJAZ",
+     "teacher_raw": "P.HAFSA IJAZ",
+     "sections": [
+      "F6",
+      "F10",
+      "F11"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "ABDUL RAZA",
+     "teacher_raw": "P.ABDUL RAZA",
+     "sections": [
+      "F3",
+      "F5",
+      "F13",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "HABIBA",
+     "teacher_raw": "P.HABIBA",
+     "sections": [
+      "F3",
+      "F5",
+      "F15",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "ALI HASSAN",
+     "teacher_raw": "P.ALI HASSAN",
+     "sections": [
+      "F6",
+      "F7",
+      "F8"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "ADEEL MANSHA",
+     "teacher_raw": "P.ADEEL MANSHA",
+     "sections": [
+      "F3",
+      "F5",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "MUKARRAM",
+     "teacher_raw": "P.MUKARRAM",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "NIAZ",
+     "teacher_raw": "P.NIAZ",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F9"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "ZULFIQAR",
+     "teacher_raw": "P.ZULFIQAR",
+     "sections": [
+      "F5",
+      "F9",
+      "F10"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "QAZA",
+     "teacher_raw": "P.QAZA",
+     "sections": [
+      "F13",
+      "F16",
+      "S13"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "UZMA",
+     "teacher_raw": "P.UZMA",
+     "sections": [
+      "F9",
+      "F10",
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "RUQAYA",
+     "teacher_raw": "P.RUQAYA",
+     "sections": [
+      "F11",
+      "F12",
+      "F13",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "IBTSAM",
+     "teacher_raw": "P.IBTSAM",
+     "sections": [
+      "S13",
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "WAQAR",
+     "teacher_raw": "P.WAQAR",
+     "sections": [
+      "F13",
+      "F14",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "MAHPARA",
+     "teacher_raw": "P.MAHPARA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "SABA",
+     "teacher_raw": "P.SABA",
+     "sections": [
+      "F6",
+      "F7",
+      "F8"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "IMRAN MALIK",
+     "teacher_raw": "P.IMRAN MALIK",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "ADNAN MALOOK",
+     "teacher_raw": "P.ADNAN MALOOK",
+     "sections": [
+      "F6",
+      "F7",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "AFFAN",
+     "teacher_raw": "P.AFFAN",
+     "sections": [
+      "F3",
+      "F5",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "HAMZA",
+     "teacher_raw": "P.HAMZA",
+     "sections": [
+      "F9",
+      "F10",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "NAILA",
+     "teacher_raw": "P.NAILA",
+     "sections": [
+      "F3",
+      "F5",
+      "F13",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "WASEEM",
+     "teacher_raw": "P.WASEEM",
+     "sections": [
+      "F9",
+      "F10",
+      "F13"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "U MER HAYAT",
+     "teacher_raw": "P.U MER HAYAT",
+     "sections": [
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "ALI KHAN",
+     "teacher_raw": "P.ALI KHAN",
+     "sections": [
+      "F13",
+      "F14",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "ASHRAF",
+     "teacher_raw": "P.ASHRAF",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "DR ADEEL",
+     "teacher_raw": "P. DR. ADEEL",
+     "sections": [
+      "F8",
+      "F15",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "STATISTICS",
+     "teacher": "IRFAN",
+     "teacher_raw": "P.IRFAN",
+     "sections": [
+      "F8",
+      "F10",
+      "F14"
+     ],
+     "notes": []
+    }
+   ]
+  },
+  {
+   "sheet": "FY 2026 (TEST) (FRIDAY)",
+   "title": "1ST YEAR TIMETABLE 2026 (TEST) FRIDAY 06-11-2026",
+   "date": "2026-11-06",
+   "total_strength": "892",
+   "schedule": [
+    {
+     "period": 1,
+     "kind": "test",
+     "time": {
+      "start": "07:50",
+      "end": "08:40"
+     },
+     "label": "1 (TEST)"
+    },
+    {
+     "period": 2,
+     "kind": "class",
+     "time": {
+      "start": "08:40",
+      "end": "09:20"
+     },
+     "label": "2"
+    },
+    {
+     "period": 3,
+     "kind": "class",
+     "time": {
+      "start": "09:20",
+      "end": "10:00"
+     },
+     "label": "3"
+    },
+    {
+     "period": 4,
+     "kind": "class",
+     "time": {
+      "start": "10:00",
+      "end": "10:40"
+     },
+     "label": "4"
+    },
+    {
+     "kind": "break",
+     "time": {
+      "start": "10:40",
+      "end": "11:10"
+     },
+     "label": "10:40-11:10"
+    },
+    {
+     "period": 5,
+     "kind": "class",
+     "time": {
+      "start": "11:10",
+      "end": "11:45"
+     },
+     "label": "5"
+    },
+    {
+     "period": 6,
+     "kind": "class",
+     "time": {
+      "start": "11:45",
+      "end": "12:20"
+     },
+     "label": "6"
+    }
+   ],
+   "sections": [
+    {
+     "section": "F1A",
+     "section_raw": "F-1A\nPM",
+     "group": "PM",
+     "room": "K-4",
+     "merit": "530+",
+     "strength": 52,
+     "class_teacher": {
+      "teacher": "AMNA KHALID",
+      "raw": "P.AMNA KHALID"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. AMNA KH",
+       "invigilators": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P. AMNA KH",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "PHY\nP.ZAMAN",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "subject": "PHY",
+         "teacher_id": "ZAMAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F1B",
+     "section_raw": "F-1B \nPM",
+     "group": "PM",
+     "room": "K-5",
+     "merit": "529-515",
+     "strength": 53,
+     "class_teacher": {
+      "teacher": "ALIYA",
+      "raw": "P.ALIYA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.ALIYA",
+       "invigilators": [
+        {
+         "teacher": "ALIYA",
+         "teacher_raw": "P.ALIYA",
+         "teacher_id": "ALIYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "PHY\nP.ZAMAN",
+       "entries": [
+        {
+         "teacher": "ZAMAN",
+         "teacher_raw": "P.ZAMAN",
+         "subject": "PHY",
+         "teacher_id": "ZAMAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F2",
+     "section_raw": "F-2\nPM",
+     "group": "PM",
+     "room": "K-6",
+     "merit": "514-490",
+     "strength": 52,
+     "class_teacher": {
+      "teacher": "MAHPARA",
+      "raw": "P.MAHPARA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. MAHPARA",
+       "invigilators": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P. MAHPARA",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "CHEM\nP.AMNA KH",
+       "entries": [
+        {
+         "teacher": "AMNA KH",
+         "teacher_raw": "P.AMNA KH",
+         "subject": "CHEM",
+         "teacher_id": "AMNA KHALID"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "BIO\nP.MAHPARA",
+       "entries": [
+        {
+         "teacher": "MAHPARA",
+         "teacher_raw": "P.MAHPARA",
+         "subject": "BIO",
+         "teacher_id": "MAHPARA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F3",
+     "section_raw": "F-3\nPM",
+     "group": "PM",
+     "room": "K-7",
+     "merit": "489-470",
+     "strength": 57,
+     "class_teacher": {
+      "teacher": "AFFAN",
+      "raw": "P.AFFAN"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. AFFAN",
+       "invigilators": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P. AFFAN",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "BIO\nP.AFFAN",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F5",
+     "section_raw": "F-5\nPM",
+     "group": "PM",
+     "room": "K-3",
+     "merit": "JULY SESSION",
+     "strength": 53,
+     "class_teacher": {
+      "teacher": "ADEEL M",
+      "raw": "P.ADEEL M"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. ADEEL MANSHA",
+       "invigilators": [
+        {
+         "teacher": "ADEEL MANSHA",
+         "teacher_raw": "P. ADEEL MANSHA",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "BIO\nP.AFFAN",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "PHY\nP.ZULFIQAR",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F6",
+     "section_raw": "F-6\nPE+\nICS (P)",
+     "group": "PE+ ICS (P)",
+     "room": "K-2",
+     "merit": "ALL",
+     "strength": 54,
+     "class_teacher": {
+      "teacher": "HAFSA",
+      "raw": "P.HAFSA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. HAFSA",
+       "invigilators": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P. HAFSA",
+         "teacher_id": "HAFSA IJAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "CHEM/COMP\nP.HAFSA/\nP.ADNAN",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "subject": "CHEM/COMP",
+         "teacher_id": "HAFSA IJAZ"
+        },
+        {
+         "teacher": "ADNAN",
+         "teacher_raw": "P.ADNAN",
+         "subject": "CHEM/COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "PHY\nP.ALI HASSAN",
+       "entries": [
+        {
+         "teacher": "ALI HASSAN",
+         "teacher_raw": "P.ALI HASSAN",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "MATH\nP.SABA",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F7",
+     "section_raw": "F-7\nICS (P/S)",
+     "group": "ICS (P/S)",
+     "room": "K-1",
+     "merit": "91.5% & ABOVE",
+     "strength": 58,
+     "class_teacher": {
+      "teacher": "SABA",
+      "raw": "P.SABA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.SABA",
+       "invigilators": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "MATH\nP.SABA",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "COMP\nP.ADNAN M",
+       "entries": [
+        {
+         "teacher": "ADNAN M",
+         "teacher_raw": "P.ADNAN M",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "PHY/STAT\nP.ALI H / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F8",
+     "section_raw": "F-8\nICS(P/S)+I.COM",
+     "group": "ICS(P/S)+I.COM",
+     "room": "K-11",
+     "merit": "REGULAR",
+     "strength": 47,
+     "class_teacher": {
+      "teacher": "MUKARRAM",
+      "raw": "P.MUKARRAM"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.QAZA",
+       "invigilators": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "teacher_id": "QAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "COMP\nP.DR.ADEEL\nP.M.ALI",
+       "entries": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        },
+        {
+         "teacher": "M ALI",
+         "teacher_raw": "P.M.ALI",
+         "subject": "COMP",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "MATH\nP.SABA\nP. A. REHMAN",
+       "entries": [
+        {
+         "teacher": "SABA",
+         "teacher_raw": "P.SABA",
+         "subject": "MATH",
+         "teacher_id": "SABA"
+        },
+        {
+         "teacher": "A REHMAN",
+         "teacher_raw": "P. A. REHMAN",
+         "subject": "MATH",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "PHY / STAT\nP.ALI H / P.IRFAN\nP. M. ALI",
+       "entries": [
+        {
+         "teacher": "ALI H",
+         "teacher_raw": "P.ALI H",
+         "subject": "PHY",
+         "teacher_id": "ALI HASSAN"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        },
+        {
+         "teacher": "M ALI",
+         "teacher_raw": "P. M. ALI",
+         "subject": "PHY / STAT",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F9",
+     "section_raw": "F9\nICS",
+     "group": "ICS",
+     "room": "K-9",
+     "merit": "87.9%-80%",
+     "strength": 48,
+     "class_teacher": {
+      "teacher": "UZMA",
+      "raw": "P.UZMA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P. HAMZA",
+       "invigilators": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P. HAMZA",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "MATH\nP.HAMZA",
+       "entries": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "COMP\nP.WASEEM",
+       "entries": [
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "PHY\nP.ZULFIQAR",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F10",
+     "section_raw": "F-10\nPE+ICS",
+     "group": "PE+ICS",
+     "room": "K-14",
+     "merit": "JULY SESSION",
+     "strength": 63,
+     "class_teacher": {
+      "teacher": "ATIF NAWAZ",
+      "raw": "P.ATIF NAWAZ"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.ARSLAN",
+       "invigilators": [
+        {
+         "teacher": "ARSLAN",
+         "teacher_raw": "P.ARSLAN",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "MATH\nP.HAMZA",
+       "entries": [
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "CHEM/COMP\nP. HAFSA /\nP.WASEEM",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P. HAFSA",
+         "subject": "CHEM/COMP",
+         "teacher_id": "HAFSA IJAZ"
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "CHEM/COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "PHY / STAT\nP.ZULFIQAR / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "ZULFIQAR",
+         "teacher_raw": "P.ZULFIQAR",
+         "subject": "PHY",
+         "teacher_id": "ZULFIQAR"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F11",
+     "section_raw": "F11\nPM",
+     "group": "PM",
+     "room": "K-15",
+     "merit": "1040+",
+     "strength": 62,
+     "class_teacher": {
+      "teacher": "UMER HAYAT",
+      "raw": "P.UMER HAYAT"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.WAHAB",
+       "invigilators": [
+        {
+         "teacher": "WAHAB",
+         "teacher_raw": "P.WAHAB",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "CHEM\nP.HAFSA",
+       "entries": [
+        {
+         "teacher": "HAFSA",
+         "teacher_raw": "P.HAFSA",
+         "subject": "CHEM",
+         "teacher_id": "HAFSA IJAZ"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "PHY\nP.IBTSAM",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "subject": "PHY",
+         "teacher_id": "IBTSAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "BIO\nP.UMER HAYAT",
+       "entries": [
+        {
+         "teacher": "UMER HAYAT",
+         "teacher_raw": "P.UMER HAYAT",
+         "subject": "BIO",
+         "teacher_id": "U MER HAYAT"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F12",
+     "section_raw": "F12\nPM",
+     "group": "PM",
+     "room": "K-16",
+     "merit": "1039 & BELOW",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "RUQAYA",
+      "raw": "P.RUQAYA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.RUQAYA",
+       "invigilators": [
+        {
+         "teacher": "RUQAYA",
+         "teacher_raw": "P.RUQAYA",
+         "teacher_id": "RUQAYA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "CHEM\nP.ADEEL M",
+       "entries": [
+        {
+         "teacher": "ADEEL M",
+         "teacher_raw": "P.ADEEL M",
+         "subject": "CHEM",
+         "teacher_id": "ADEEL MANSHA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "BIO\nP.UER HAYAT",
+       "entries": [
+        {
+         "teacher": "UER HAYAT",
+         "teacher_raw": "P.UER HAYAT",
+         "subject": "BIO",
+         "teacher_id": "U MER HAYAT"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "ENG\nP.ATIF NAWAZ",
+       "entries": [
+        {
+         "teacher": "ATIF NAWAZ",
+         "teacher_raw": "P.ATIF NAWAZ",
+         "subject": "ENG",
+         "teacher_id": null
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "URDU\nP.UZMA",
+       "entries": [
+        {
+         "teacher": "UZMA",
+         "teacher_raw": "P.UZMA",
+         "subject": "URDU",
+         "teacher_id": "UZMA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "PHY\nP.IBTSAM",
+       "entries": [
+        {
+         "teacher": "IBTSAM",
+         "teacher_raw": "P.IBTSAM",
+         "subject": "PHY",
+         "teacher_id": "IBTSAM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F13",
+     "section_raw": "F13\nPE+ICS",
+     "group": "PE+ICS",
+     "room": "K-13",
+     "merit": "1090+",
+     "strength": 61,
+     "class_teacher": {
+      "teacher": "NAILA",
+      "raw": "P.NAILA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.ALI KHAN",
+       "invigilators": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "PHY\nP.WAQAR",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "CHEM/COMP\nP.QAZA/ P.WASEEM",
+       "entries": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "subject": "CHEM",
+         "teacher_id": "QAZA"
+        },
+        {
+         "teacher": "WASEEM",
+         "teacher_raw": "P.WASEEM",
+         "subject": "COMP",
+         "teacher_id": "WASEEM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F14",
+     "section_raw": "F14\nICS (P/S)",
+     "group": "ICS (P/S)",
+     "room": "K-10+12",
+     "merit": "1079-1015\n+ STAT",
+     "strength": 55,
+     "class_teacher": {
+      "teacher": "AB RAZA",
+      "raw": "P.AB RAZA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.ADNAN MALOOK",
+       "invigilators": [
+        {
+         "teacher": "ADNAN MALOOK",
+         "teacher_raw": "P.ADNAN MALOOK",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "URDU\nP.A.RAZA",
+       "entries": [
+        {
+         "teacher": "A RAZA",
+         "teacher_raw": "P.A.RAZA",
+         "subject": "URDU",
+         "teacher_id": "ABDUL RAZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "COMP\nP.ADNAN M",
+       "entries": [
+        {
+         "teacher": "ADNAN M",
+         "teacher_raw": "P.ADNAN M",
+         "subject": "COMP",
+         "teacher_id": "ADNAN MALOOK"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "PHY / STAT\nP.WAQAR / P.IRFAN",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        },
+        {
+         "teacher": "IRFAN",
+         "teacher_raw": "P.IRFAN",
+         "subject": "STAT",
+         "teacher_id": "IRFAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.ASHRAF",
+       "entries": [
+        {
+         "teacher": "ASHRAF",
+         "teacher_raw": "P.ASHRAF",
+         "subject": "ENG",
+         "teacher_id": "ASHRAF"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F15",
+     "section_raw": "F15\nICS",
+     "group": "ICS",
+     "room": "K-8",
+     "merit": "1014-840",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "HABIBA",
+      "raw": "P.HABIBA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.HABIBA",
+       "invigilators": [
+        {
+         "teacher": "HABIBA",
+         "teacher_raw": "P.HABIBA",
+         "teacher_id": "HABIBA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "URDU\nP.MUKARRAM",
+       "entries": [
+        {
+         "teacher": "MUKARRAM",
+         "teacher_raw": "P.MUKARRAM",
+         "subject": "URDU",
+         "teacher_id": "MUKARRAM"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "PHY\nP.WAQAR",
+       "entries": [
+        {
+         "teacher": "WAQAR",
+         "teacher_raw": "P.WAQAR",
+         "subject": "PHY",
+         "teacher_id": "WAQAR"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "MATH\nP.ALI KHAN",
+       "entries": [
+        {
+         "teacher": "ALI KHAN",
+         "teacher_raw": "P.ALI KHAN",
+         "subject": "MATH",
+         "teacher_id": "ALI KHAN"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "COMP\nP.DR.ADEEL",
+       "entries": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.IMRAN M",
+       "entries": [
+        {
+         "teacher": "IMRAN M",
+         "teacher_raw": "P.IMRAN M",
+         "subject": "ENG",
+         "teacher_id": "IMRAN MALIK"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "section": "F16",
+     "section_raw": "F16\nPM+ICS",
+     "group": "PM+ICS",
+     "room": "K-44",
+     "merit": "LESS THAN 840",
+     "strength": 59,
+     "class_teacher": {
+      "teacher": "HAMZA",
+      "raw": "P.HAMZA"
+     },
+     "slots": [
+      {
+       "kind": "test",
+       "period": 1,
+       "time": {
+        "start": "07:50",
+        "end": "08:40"
+       },
+       "raw": "P.DR.ADEEL",
+       "invigilators": [
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 2,
+       "time": {
+        "start": "08:40",
+        "end": "09:20"
+       },
+       "raw": "URDU\nP.SHAHIDA",
+       "entries": [
+        {
+         "teacher": "SHAHIDA",
+         "teacher_raw": "P.SHAHIDA",
+         "subject": "URDU",
+         "teacher_id": "SHAHIDA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 3,
+       "time": {
+        "start": "09:20",
+        "end": "10:00"
+       },
+       "raw": "BIO / MATH\nP.AFFAN/P.HAMZA",
+       "entries": [
+        {
+         "teacher": "AFFAN",
+         "teacher_raw": "P.AFFAN",
+         "subject": "BIO",
+         "teacher_id": "AFFAN"
+        },
+        {
+         "teacher": "HAMZA",
+         "teacher_raw": "P.HAMZA",
+         "subject": "MATH",
+         "teacher_id": "HAMZA"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 4,
+       "time": {
+        "start": "10:00",
+        "end": "10:40"
+       },
+       "raw": "CHEM/COMP\nP.QAZA/ P.DR.ADEEL",
+       "entries": [
+        {
+         "teacher": "QAZA",
+         "teacher_raw": "P.QAZA",
+         "subject": "CHEM",
+         "teacher_id": "QAZA"
+        },
+        {
+         "teacher": "DR ADEEL",
+         "teacher_raw": "P.DR.ADEEL",
+         "subject": "COMP",
+         "teacher_id": "DR ADEEL"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 5,
+       "time": {
+        "start": "11:10",
+        "end": "11:45"
+       },
+       "raw": "PHY\nP.NAVEED AH",
+       "entries": [
+        {
+         "teacher": "NAVEED AH",
+         "teacher_raw": "P.NAVEED AH",
+         "subject": "PHY",
+         "teacher_id": "NAVEED AHMAD"
+        }
+       ]
+      },
+      {
+       "kind": "class",
+       "period": 6,
+       "time": {
+        "start": "11:45",
+        "end": "12:20"
+       },
+       "raw": "ENG\nP.NAILA",
+       "entries": [
+        {
+         "teacher": "NAILA",
+         "teacher_raw": "P.NAILA",
+         "subject": "ENG",
+         "teacher_id": "NAILA"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "subject_teacher_roster": [
+    {
+     "subject": "PHYSICS",
+     "teacher": "ZAMAN",
+     "teacher_raw": "P.ZAMAN",
+     "sections": [
+      "F1A",
+      "F1B"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "AMNA KHALID",
+     "teacher_raw": "P.AMNA KHALID",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "SHAHIDA",
+     "teacher_raw": "P.SHAHIDA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "ALIYA",
+     "teacher_raw": "P.ALIYA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F10"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "NAVEED AHMAD",
+     "teacher_raw": "P.NAVEED AHMAD",
+     "sections": [
+      "F2",
+      "F3",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "HAFSA IJAZ",
+     "teacher_raw": "P.HAFSA IJAZ",
+     "sections": [
+      "F6",
+      "F10",
+      "F11"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "ABDUL RAZA",
+     "teacher_raw": "P.ABDUL RAZA",
+     "sections": [
+      "F3",
+      "F5",
+      "F13",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "HABIBA",
+     "teacher_raw": "P.HABIBA",
+     "sections": [
+      "F3",
+      "F5",
+      "F15",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "ALI HASSAN",
+     "teacher_raw": "P.ALI HASSAN",
+     "sections": [
+      "F6",
+      "F7",
+      "F8"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "ADEEL MANSHA",
+     "teacher_raw": "P.ADEEL MANSHA",
+     "sections": [
+      "F3",
+      "F5",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "MUKARRAM",
+     "teacher_raw": "P.MUKARRAM",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "NIAZ",
+     "teacher_raw": "P.NIAZ",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F9"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "ZULFIQAR",
+     "teacher_raw": "P.ZULFIQAR",
+     "sections": [
+      "F5",
+      "F9",
+      "F10"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "CHEMISTRY",
+     "teacher": "QAZA",
+     "teacher_raw": "P.QAZA",
+     "sections": [
+      "F13",
+      "F16",
+      "S13"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "URDU",
+     "teacher": "UZMA",
+     "teacher_raw": "P.UZMA",
+     "sections": [
+      "F9",
+      "F10",
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ISLAMIYAT",
+     "teacher": "RUQAYA",
+     "teacher_raw": "P.RUQAYA",
+     "sections": [
+      "F11",
+      "F12",
+      "F13",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "IBTSAM",
+     "teacher_raw": "P.IBTSAM",
+     "sections": [
+      "S13",
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "PHYSICS",
+     "teacher": "WAQAR",
+     "teacher_raw": "P.WAQAR",
+     "sections": [
+      "F13",
+      "F14",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "MAHPARA",
+     "teacher_raw": "P.MAHPARA",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "SABA",
+     "teacher_raw": "P.SABA",
+     "sections": [
+      "F6",
+      "F7",
+      "F8"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "IMRAN MALIK",
+     "teacher_raw": "P.IMRAN MALIK",
+     "sections": [
+      "F1A",
+      "F1B",
+      "F2",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "ADNAN MALOOK",
+     "teacher_raw": "P.ADNAN MALOOK",
+     "sections": [
+      "F6",
+      "F7",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "AFFAN",
+     "teacher_raw": "P.AFFAN",
+     "sections": [
+      "F3",
+      "F5",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "HAMZA",
+     "teacher_raw": "P.HAMZA",
+     "sections": [
+      "F9",
+      "F10",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "NAILA",
+     "teacher_raw": "P.NAILA",
+     "sections": [
+      "F3",
+      "F5",
+      "F13",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "WASEEM",
+     "teacher_raw": "P.WASEEM",
+     "sections": [
+      "F9",
+      "F10",
+      "F13"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "BIOLOGY",
+     "teacher": "U MER HAYAT",
+     "teacher_raw": "P.U MER HAYAT",
+     "sections": [
+      "F11",
+      "F12"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "MATH",
+     "teacher": "ALI KHAN",
+     "teacher_raw": "P.ALI KHAN",
+     "sections": [
+      "F13",
+      "F14",
+      "F15"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "ENGLISH",
+     "teacher": "ASHRAF",
+     "teacher_raw": "P.ASHRAF",
+     "sections": [
+      "F6",
+      "F7",
+      "F8",
+      "F14"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "COMPUTER",
+     "teacher": "DR ADEEL",
+     "teacher_raw": "P. DR. ADEEL",
+     "sections": [
+      "F8",
+      "F15",
+      "F16"
+     ],
+     "notes": []
+    },
+    {
+     "subject": "STATISTICS",
+     "teacher": "IRFAN",
+     "teacher_raw": "P.IRFAN",
+     "sections": [
+      "F8",
+      "F10",
+      "F14"
+     ],
+     "notes": []
+    }
+   ]
+  }
+ ],
+ "teachers_seen": {
+  "A RAZA": [
+   "P.A.RAZA"
+  ],
+  "A REHMAN": [
+   "P. A. REHMAN"
+  ],
+  "AB REHMAN": [
+   "P.AB REHMAN"
+  ],
+  "ADEEL M": [
+   "P.ADEEL M"
+  ],
+  "ADEEL MANSHA": [
+   "P. ADEEL MANSHA"
+  ],
+  "ADNAN": [
+   "P.ADNAN"
+  ],
+  "ADNAN M": [
+   "P.ADNAN M"
+  ],
+  "ADNAN MALOOK": [
+   "P.ADNAN MALOOK"
+  ],
+  "AFFAN": [
+   "P. AFFAN",
+   "P.AFFAN"
+  ],
+  "ALI H": [
+   "P.ALI H"
+  ],
+  "ALI HASSAN": [
+   "P. ALI HASSAN",
+   "P.ALI HASSAN"
+  ],
+  "ALI K": [
+   "P.ALI K"
+  ],
+  "ALI KHAN": [
+   "P.ALI KHAN"
+  ],
+  "ALIYA": [
+   "P.ALIYA"
+  ],
+  "AMNA KH": [
+   "P. AMNA KH",
+   "P.AMNA KH"
+  ],
+  "ARSLAN": [
+   "P.ARSLAN"
+  ],
+  "ASHRAF": [
+   "P.ASHRAF"
+  ],
+  "ATIF NAWAZ": [
+   "P.ATIF NAWAZ"
+  ],
+  "AYESHA FARRUKH": [
+   "P.AYESHA FARRUKH"
+  ],
+  "DR ADEEL": [
+   "P. DR. ADEEL",
+   "P.DR.ADEEL"
+  ],
+  "EXAM CELL": [
+   "EXAM CELL"
+  ],
+  "GM CH": [
+   "P.GM.CH"
+  ],
+  "HABIBA": [
+   "P.HABIBA"
+  ],
+  "HAFSA": [
+   "P. HAFSA",
+   "P.HAFSA"
+  ],
+  "HAMZA": [
+   "P. HAMZA",
+   "P.HAMZA"
+  ],
+  "IBTSAM": [
+   "P.IBTSAM"
+  ],
+  "IMRAN M": [
+   "P.IMRAN M"
+  ],
+  "IRFAN": [
+   "P.IRFAN"
+  ],
+  "M ALI": [
+   "P. M. ALI",
+   "P.M.ALI"
+  ],
+  "MAHPARA": [
+   "P. MAHPARA",
+   "P.MAHPARA"
+  ],
+  "MUKARRAM": [
+   "P.MUKARRAM"
+  ],
+  "NAILA": [
+   "P.NAILA"
+  ],
+  "NAVEED AH": [
+   "P.NAVEED AH"
+  ],
+  "NIAZ": [
+   "P.NIAZ"
+  ],
+  "QAZA": [
+   "P.QAZA"
+  ],
+  "RUQAYA": [
+   "P.RUQAYA"
+  ],
+  "SABA": [
+   "P.SABA"
+  ],
+  "SHAHIDA": [
+   "P.SHAHIDA"
+  ],
+  "UER HAYAT": [
+   "P.UER HAYAT"
+  ],
+  "UMER H": [
+   "P.UMER H"
+  ],
+  "UMER HAYAT": [
+   "P.UMER HAYAT"
+  ],
+  "UZMA": [
+   "P.UZMA"
+  ],
+  "WAHAB": [
+   "P.WAHAB"
+  ],
+  "WAQAR": [
+   "P.WAQAR"
+  ],
+  "WASEEM": [
+   "P. WASEEM",
+   "P.WASEEM",
+   "P.Waseem"
+  ],
+  "ZAMAN": [
+   "P.ZAMAN"
+  ],
+  "ZULFIQAR": [
+   "P.ZULFIQAR"
+  ]
+ },
+ "teacher_aliases": {
+  "A RAZA": "ABDUL RAZA",
+  "A REHMAN": null,
+  "AB REHMAN": null,
+  "ADEEL M": "ADEEL MANSHA",
+  "ADEEL MANSHA": "ADEEL MANSHA",
+  "ADNAN": "ADNAN MALOOK",
+  "ADNAN M": "ADNAN MALOOK",
+  "ADNAN MALOOK": "ADNAN MALOOK",
+  "AFFAN": "AFFAN",
+  "ALI H": "ALI HASSAN",
+  "ALI HASSAN": "ALI HASSAN",
+  "ALI K": "ALI KHAN",
+  "ALI KHAN": "ALI KHAN",
+  "ALIYA": "ALIYA",
+  "AMNA KH": "AMNA KHALID",
+  "ARSLAN": null,
+  "ASHRAF": "ASHRAF",
+  "ATIF NAWAZ": null,
+  "AYESHA FARRUKH": null,
+  "DR ADEEL": "DR ADEEL",
+  "EXAM CELL": null,
+  "GM CH": null,
+  "HABIBA": "HABIBA",
+  "HAFSA": "HAFSA IJAZ",
+  "HAMZA": "HAMZA",
+  "IBTSAM": "IBTSAM",
+  "IMRAN M": "IMRAN MALIK",
+  "IRFAN": "IRFAN",
+  "M ALI": null,
+  "MAHPARA": "MAHPARA",
+  "MUKARRAM": "MUKARRAM",
+  "NAILA": "NAILA",
+  "NAVEED AH": "NAVEED AHMAD",
+  "NIAZ": "NIAZ",
+  "QAZA": "QAZA",
+  "RUQAYA": "RUQAYA",
+  "SABA": "SABA",
+  "SHAHIDA": "SHAHIDA",
+  "UER HAYAT": "U MER HAYAT",
+  "UMER H": "U MER HAYAT",
+  "UMER HAYAT": "U MER HAYAT",
+  "UZMA": "UZMA",
+  "WAHAB": null,
+  "WAQAR": "WAQAR",
+  "WASEEM": "WASEEM",
+  "ZAMAN": "ZAMAN",
+  "ZULFIQAR": "ZULFIQAR"
+ },
+ "warnings": [
+  "[FY 2026 (NON TEST) (2)] F8 P3: subject unclear in 'P.ALI H (S)\\nP.DR.ADEEL (T)\\nP.SABA (TH)\\nP. A. REHMAN'",
+  "[FY 2026 (NON TEST) (2)] F9 P3: subject unclear in 'P.ZULFIQAR (T)\\nP.ATIF NAWAZ (S)\\nP.HAMZA (TH)'",
+  "teacher names not matched to roster: ['A REHMAN', 'AB REHMAN', 'ARSLAN', 'ATIF NAWAZ', 'AYESHA FARRUKH', 'EXAM CELL', 'GM CH', 'M ALI', 'WAHAB']"
+ ]
+}

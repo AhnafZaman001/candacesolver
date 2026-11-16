@@ -1,0 +1,1 @@
+"""Candace daily timetable solver."""
