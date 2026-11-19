@@ -3,8 +3,8 @@
 GET  /api/solve  -> health check: {"ok": true, ...}. Public, solves nothing.
 POST /api/solve  -> solve one campus-day. Requires header `x-solver-secret`.
                     Body: {"campus_id": "...", "date": "YYYY-MM-DD"}
-                    (Reading from Supabase and saving the draft arrive in the next step;
-                    until then POST answers 501.)
+                    Reads the day from Supabase, solves, saves one draft `adjustments` row per
+                    timetable version. Optional "overwrite": true replaces a published day.
 
 Secrets (Vercel env vars, never in code): SOLVER_SECRET, SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY.
 """
@@ -59,4 +59,14 @@ class handler(BaseHTTPRequestHandler):  # Vercel looks for a class named `handle
             return _json(self, 400, {"ok": False, "error": "bad json"})
         if not body.get("campus_id") or not body.get("date"):
             return _json(self, 400, {"ok": False, "error": "campus_id and date are required"})
-        return _json(self, 501, {"ok": False, "error": "solving from Supabase is not wired yet"})
+        try:
+            from solver.supabase_io import Conflict, run_day
+            out = run_day(body["campus_id"], body["date"], overwrite_published=bool(body.get("overwrite")))
+            return _json(self, 200, out)
+        except Conflict as e:
+            return _json(self, 409, {"ok": False, "error": str(e)})
+        except ValueError as e:
+            return _json(self, 422, {"ok": False, "error": str(e)})
+        except Exception as e:  # never leak keys or stack traces to the caller
+            print(f"solve failed: {type(e).__name__}: {e}", file=sys.stderr)
+            return _json(self, 500, {"ok": False, "error": f"solve failed ({type(e).__name__})"})
