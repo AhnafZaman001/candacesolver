@@ -1,308 +1,308 @@
 {
- "_note": "Rule data for the pilot college, taken from the admin's own words (12-13 Nov 2026 chat record and his voice-note answers). All 20 confirmed by the user on 2026-11-15. The solver applies only confirmed, active, in-date rules. Teacher names are data, matched to the timetable's teachers.",
- "rules": [
-  {
-   "title": "Pak Studies and Tarjuma-tul-Quran lectures are never moved",
-   "rule_type": "lock_subjects",
-   "kind": "hard",
-   "params": {
-    "subjects": [
-     "PAK STUDIES",
-     "P.S",
-     "TQ"
-    ]
-   },
-   "source": "chat R4",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Prof. Irfan's cells (Statistics, last 2 lectures) are never moved",
-   "rule_type": "lock_teachers",
-   "kind": "hard",
-   "teachers": [
-    "IRFAN"
-   ],
-   "params": {},
-   "source": "chat R4",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "The six 9:30 teachers never teach lectures 1-2 (permanent)",
-   "rule_type": "available_window",
-   "kind": "hard",
-   "teachers": [
-    "IBTSAM",
-    "NAVEED IKRAM",
-    "WAQAR",
-    "ZULFIQAR",
-    "USMAN",
-    "WASEEM"
-   ],
-   "params": {
-    "from_period": 3
-   },
-   "source": "voice note Q12 + chat R7/R17",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Prof. Ali Hassan: lecture 3 and after the break on non-test days",
-   "rule_type": "available_window",
-   "kind": "temporary",
-   "teachers": [
-    "ALI HASSAN"
-   ],
-   "params": {
-    "periods": [
-     3,
-     5,
-     6,
-     7
-    ],
-    "days": [
-     "TUE",
-     "THU",
-     "SAT"
-    ]
-   },
-   "source": "voice note Q14 + chat R29 (duration not given)",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Prof. Zaman gets no extra lectures",
-   "rule_type": "no_extra_lectures",
-   "kind": "hard",
-   "teachers": [
-    "ZAMAN"
-   ],
-   "params": {},
-   "source": "voice note Q13",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Normal max 4 lectures a day; a 5th only if needed, science before arts",
-   "rule_type": "max_lectures_per_day",
-   "kind": "hard",
-   "params": {
-    "max": 4,
-    "extra_allowed": 1,
-    "extra_penalty": {
-     "science": 30,
-     "arts": 60
-    }
-   },
-   "source": "chat R4/R16",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Never 4 lectures in a row before the break",
-   "rule_type": "consecutive_limit",
-   "kind": "hard",
-   "params": {
-    "max": 3
-   },
-   "source": "chat R21",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Avoid 3 lectures in a row (allowed only when forced)",
-   "rule_type": "avoid_consecutive",
-   "kind": "soft",
-   "params": {
-    "max": 2
-   },
-   "weight": 20,
-   "source": "chat R4/R13",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Max one extra lecture per teacher per class per day",
-   "rule_type": "max_extra_per_section",
-   "kind": "hard",
-   "params": {
-    "max": 1
-   },
-   "source": "chat R31",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Max 2 classes on sports in the same lecture (per year)",
-   "rule_type": "sports_limit",
-   "kind": "hard",
-   "params": {
-    "per_lecture_per_year": 2
-   },
-   "source": "chat R27",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Avoid sports in lecture 1",
-   "rule_type": "avoid_sports_period",
-   "kind": "soft",
-   "params": {
-    "numbers": [
-     1
-    ]
-   },
-   "weight": 15,
-   "source": "chat R42",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Max 5 labs per lab type per day",
-   "rule_type": "lab_daily_cap",
-   "kind": "hard",
-   "params": {
-    "per_type": 5
-   },
-   "source": "chat R18 + voice note Q15",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "If a lab incharge is absent, that lab cannot run",
-   "rule_type": "lab_needs_incharge",
-   "kind": "hard",
-   "params": {},
-   "source": "voice note Q4",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Extra lecture priority: ICS/PE sections Math; Pre-Medical Chem/Bio; Physics last",
-   "rule_type": "extra_subject_priority",
-   "kind": "soft",
-   "params": {
-    "groups": {
-     "ICS": [
-      "MATH"
-     ],
-     "PE": [
-      "MATH"
-     ],
-     "PM": [
-      "CHEM",
-      "BIO"
-     ]
+  "_note": "Rule data for the pilot college, taken from the admin's own words (12-13 Nov 2026 chat record and his voice-note answers). All 20 confirmed by the user on 2026-11-15. The solver applies only confirmed, active, in-date rules. Teacher names are data, matched to the timetable's teachers.",
+  "rules": [
+    {
+      "title": "Pak Studies, TQ · Lectures never move",
+      "rule_type": "lock_subjects",
+      "kind": "hard",
+      "params": {
+        "subjects": [
+          "PAK STUDIES",
+          "P.S",
+          "TQ"
+        ]
+      },
+      "source": "chat R4",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
     },
-    "last": [
-     "PHY"
-    ],
-    "bonus": 4,
-    "malus": 4
-   },
-   "source": "chat R4",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Keep science out of the last lecture where possible",
-   "rule_type": "science_not_last",
-   "kind": "soft",
-   "params": {},
-   "weight": 5,
-   "source": "voice note Q11",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Keep shuffling minimal",
-   "rule_type": "shuffle_penalty",
-   "kind": "soft",
-   "params": {
-    "per_move": 30
-   },
-   "source": "chat R4/R10",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "The lecture-3 rotation cell may be shuffled (one-day adjustment)",
-   "rule_type": "allow_rotation_shuffle",
-   "kind": "soft",
-   "params": {},
-   "source": "voice note Q16",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "2nd year fill order: lab first, then a teacher of the section, then sports",
-   "rule_type": "fill_costs",
-   "kind": "soft",
-   "params": {
-    "year": "2nd Year",
-    "costs": {
-     "lab": 8,
-     "cover": 10,
-     "sports": 40,
-     "counsellor": 60
+    {
+      "title": "Irfan · Last 2 lectures never move",
+      "rule_type": "lock_teachers",
+      "kind": "hard",
+      "teachers": [
+        "IRFAN"
+      ],
+      "params": {},
+      "source": "chat R4",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Ibtsam, Naveed Ikram, Waqar, Zulfiqar, Usman, Waseem · Available from lecture 3",
+      "rule_type": "available_window",
+      "kind": "hard",
+      "teachers": [
+        "IBTSAM",
+        "NAVEED IKRAM",
+        "WAQAR",
+        "ZULFIQAR",
+        "USMAN",
+        "WASEEM"
+      ],
+      "params": {
+        "from_period": 3
+      },
+      "source": "voice note Q12 + chat R7/R17",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Ali Hassan · Lectures 3, 5, 6, 7 only (Tue, Thu, Sat)",
+      "rule_type": "available_window",
+      "kind": "temporary",
+      "teachers": [
+        "ALI HASSAN"
+      ],
+      "params": {
+        "periods": [
+          3,
+          5,
+          6,
+          7
+        ],
+        "days": [
+          "TUE",
+          "THU",
+          "SAT"
+        ]
+      },
+      "source": "voice note Q14 + chat R29 (duration not given)",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Zaman · No extra lectures",
+      "rule_type": "no_extra_lectures",
+      "kind": "hard",
+      "teachers": [
+        "ZAMAN"
+      ],
+      "params": {},
+      "source": "voice note Q13",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "All teachers · Max 4 lectures a day, 1 more only if needed (science before arts)",
+      "rule_type": "max_lectures_per_day",
+      "kind": "hard",
+      "params": {
+        "max": 4,
+        "extra_allowed": 1,
+        "extra_penalty": {
+          "science": 30,
+          "arts": 60
+        }
+      },
+      "source": "chat R4/R16",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "All teachers · Max 3 lectures in a row before the break",
+      "rule_type": "consecutive_limit",
+      "kind": "hard",
+      "params": {
+        "max": 3
+      },
+      "source": "chat R21",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "All teachers · Avoid 3 lectures in a row",
+      "rule_type": "avoid_consecutive",
+      "kind": "soft",
+      "params": {
+        "max": 2
+      },
+      "weight": 20,
+      "source": "chat R4/R13",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "All teachers · Max 1 extra lecture per class per day",
+      "rule_type": "max_extra_per_section",
+      "kind": "hard",
+      "params": {
+        "max": 1
+      },
+      "source": "chat R31",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Sports · Max 2 classes in the same lecture per year",
+      "rule_type": "sports_limit",
+      "kind": "hard",
+      "params": {
+        "per_lecture_per_year": 2
+      },
+      "source": "chat R27",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Sports · Avoid lecture 1",
+      "rule_type": "avoid_sports_period",
+      "kind": "soft",
+      "params": {
+        "numbers": [
+          1
+        ]
+      },
+      "weight": 15,
+      "source": "chat R42",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Labs · Max 5 per lab type per day",
+      "rule_type": "lab_daily_cap",
+      "kind": "hard",
+      "params": {
+        "per_type": 5
+      },
+      "source": "chat R18 + voice note Q15",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Labs · Closed when the in-charge is absent",
+      "rule_type": "lab_needs_incharge",
+      "kind": "hard",
+      "params": {},
+      "source": "voice note Q4",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Cover priority · ICS, PE: Math · PM: Chem, Bio · Physics last",
+      "rule_type": "extra_subject_priority",
+      "kind": "soft",
+      "params": {
+        "groups": {
+          "ICS": [
+            "MATH"
+          ],
+          "PE": [
+            "MATH"
+          ],
+          "PM": [
+            "CHEM",
+            "BIO"
+          ]
+        },
+        "last": [
+          "PHY"
+        ],
+        "bonus": 4,
+        "malus": 4
+      },
+      "source": "chat R4",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Science · Not in the last lecture",
+      "rule_type": "science_not_last",
+      "kind": "soft",
+      "params": {},
+      "weight": 5,
+      "source": "voice note Q11",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Shuffles · Keep to a minimum",
+      "rule_type": "shuffle_penalty",
+      "kind": "soft",
+      "params": {
+        "per_move": 30
+      },
+      "source": "chat R4/R10",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Lecture 3 rotation · May be shuffled",
+      "rule_type": "allow_rotation_shuffle",
+      "kind": "soft",
+      "params": {},
+      "source": "voice note Q16",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "2nd Year gaps · Lab, then section teacher, then sports",
+      "rule_type": "fill_costs",
+      "kind": "soft",
+      "params": {
+        "year": "2nd Year",
+        "costs": {
+          "lab": 8,
+          "cover": 10,
+          "sports": 40,
+          "counsellor": 60
+        }
+      },
+      "source": "chat R4/R9",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "1st Year gaps · Section teacher, then lab, then sports",
+      "rule_type": "fill_costs",
+      "kind": "soft",
+      "params": {
+        "year": "1st Year",
+        "costs": {
+          "cover": 10,
+          "lab": 20,
+          "sports": 40,
+          "counsellor": 60
+        }
+      },
+      "source": "chat R20 (voice note Q2 wording differs — open question)",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
+    },
+    {
+      "title": "Rida Zahra, Hafsa Mushtaq · Counsellors, max 2 lectures a day",
+      "rule_type": "counsellors",
+      "kind": "hard",
+      "teachers": [
+        "RIDA ZAHRA COUNSELLOR",
+        "HAFSA MUSHTAQ"
+      ],
+      "params": {
+        "max_per_day": 2
+      },
+      "source": "chat R38/R39",
+      "confirmed": true,
+      "confirmed_on": "2026-11-15",
+      "confirmed_by": "user (on the admin's behalf)"
     }
-   },
-   "source": "chat R4/R9",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "1st year fill order: a teacher of the section, then lab, then sports",
-   "rule_type": "fill_costs",
-   "kind": "soft",
-   "params": {
-    "year": "1st Year",
-    "costs": {
-     "cover": 10,
-     "lab": 20,
-     "sports": 40,
-     "counsellor": 60
-    }
-   },
-   "source": "chat R20 (voice note Q2 wording differs — open question)",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  },
-  {
-   "title": "Student counsellors may take max 2 lectures a day",
-   "rule_type": "counsellors",
-   "kind": "hard",
-   "teachers": [
-    "RIDA ZAHRA COUNSELLOR",
-    "HAFSA MUSHTAQ"
-   ],
-   "params": {
-    "max_per_day": 2
-   },
-   "source": "chat R38/R39",
-   "confirmed": true,
-   "confirmed_on": "2026-11-15",
-   "confirmed_by": "user (on the admin's behalf)"
-  }
- ]
+  ]
 }
