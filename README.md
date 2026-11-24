@@ -6,7 +6,7 @@ the adjusted timetable with Google OR-Tools (CP-SAT): keep, shuffle (SHF), cover
 sports (SPORT), or `! FIX` for the admin.
 
 ```
-Candace web app ("Generate")  ──POST + x-solver-secret──►  candace-solver /api/solve  (Vercel, Sydney)
+Candace web app ("Generate")  ──POST + x-solver-secret──►  candace-solver /api/solve  (Vercel, Mumbai)
                                                               ├─ reads timetable, events, rules (Supabase)
                                                               ├─ solves (OR-Tools)
                                                               └─ writes the draft into `adjustments`
@@ -20,7 +20,7 @@ Candace web app ("Generate")  ──POST + x-solver-secret──►  candace-sol
 | `solver/rules/` | Rule data (each rule has `confirmed`; only confirmed rules are applied) |
 | `solver/cases/` | Benchmark cases, e.g. `2026-11-12` |
 | `data/` | Extracted timetables used by the benchmark cases |
-| `vercel.json` | Runs in `syd1` (next to Supabase in Sydney), up to 60 s per run |
+| `vercel.json` | Runs in `bom1` (next to Supabase in Mumbai), up to 60 s per run |
 | `requirements.txt` | `ortools`, installed by Vercel |
 
 ## Run locally
