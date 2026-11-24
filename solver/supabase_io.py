@@ -87,8 +87,6 @@ def run_day(campus_id: str, day_iso: str, db: Rest | None = None, options: Optio
     idx = TeacherIndex()
     for t in t_rows:
         idx.add(t["name"])
-        for al in t.get("aliases") or []:
-            idx.add(al, t["name"])
     sec_rows = db.select("sections", campus_id=eq(campus_id))
     sec_code = {s["id"]: s["code"] for s in sec_rows}
     sec_id = {s["code"]: s["id"] for s in sec_rows}
