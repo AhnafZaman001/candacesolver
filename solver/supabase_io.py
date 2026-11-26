@@ -76,7 +76,12 @@ def run_day(campus_id: str, day_iso: str, db: Rest | None = None, options: Optio
             continue
         if v["day_kinds"] and day not in v["day_kinds"]:
             continue
-        chosen.setdefault(v["year_label"], v)
+        if v["year_label"] in chosen:
+            continue
+        # An uploaded file that has not been read in yet has no periods: keep looking for the working timetable.
+        if not db.select("periods", version_id=eq(v["id"]), select="id"):
+            continue
+        chosen[v["year_label"]] = v
     if not chosen:
         raise ValueError(f"No timetable version covers {day} {day_iso}")
     versions = sorted(chosen.values(), key=lambda v: v["year_label"])
